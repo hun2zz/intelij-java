@@ -30,9 +30,7 @@ public class ArrayQuiz02 {
 
             String[] temp = new String[students.length - 1];
 
-            for (int i = 0; i < students.length - 1; i++) {
-                temp[i] = students[i];
-            }
+            System.arraycopy(students, 0, temp, 0, students.length - 1);
 
             students = temp;
             temp = null;

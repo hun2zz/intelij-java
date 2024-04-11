@@ -15,9 +15,7 @@ public class ArrayDelete {
             numbers[i] = numbers[i + 1];
         }
         int[] temp = new int[numbers.length-1];
-        for (int i = 0; i <temp.length ; i++) {
-            temp[i] = numbers[i];
-        }
+        System.arraycopy(numbers, 0, temp, 0, temp.length);
         numbers=temp;
         temp=null;
 

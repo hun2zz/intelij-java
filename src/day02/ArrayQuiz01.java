@@ -39,10 +39,8 @@ public class ArrayQuiz01 {
             String[] temp = new String[foodList.length + 1];
 
             // 기존 foodList에 있던 음식들 새 배열로 복사
-            for (int i = 0; i < foodList.length; i++) {
-                // 좌항: 영역, 우항: 값
-                temp[i] = foodList[i];
-            }
+            // 좌항: 영역, 우항: 값
+            System.arraycopy(foodList, 0, temp, 0, foodList.length);
 
             // 새 음식을 새 배열의 끝인덱스에 추가
             temp[temp.length - 1] = newFood;

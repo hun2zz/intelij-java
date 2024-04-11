@@ -16,9 +16,7 @@ public class ArrayPop {
         int[] temp = new int[numbers.length-1];
 
         //2. 원본 배열에서 맨 끝 인덱스를 제외한 모든 내용 사본에 복사
-        for (int i = 0; i < temp.length; i++) {
-            temp[i] = numbers[i];
-        }
+        System.arraycopy(numbers, 0, temp, 0, temp.length);
         //3. 삭제 값 백업
         int removeNumber = numbers[numbers.length -1];
 

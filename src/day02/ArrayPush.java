@@ -14,9 +14,7 @@ public class ArrayPush {
         int[] temp = new int[numbers.length + 1];
 
         //2. 기존 데이터를 새로운 배열에 전부 복사하기
-        for (int i = 0; i < numbers.length; i++) {
-            temp[i] = numbers[i];
-        }
+        System.arraycopy(numbers, 0, temp, 0, numbers.length);
         //3. 새 배열의 끝 인 덱스에 넣을 데이터 추가하기
         temp[temp.length-1] = newNumbers;
 

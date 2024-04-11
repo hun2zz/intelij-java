@@ -33,7 +33,7 @@ public class TypeCasting {
 
         int s  = 10;
         int o = 5;
-        double r2 = (int) s * o;
+        double r2 = s * o;
 
         
         //int 이하의 사이즈를 가진 타입은 연산 시 결과가 자동으로 int로 캐스팅됨 .

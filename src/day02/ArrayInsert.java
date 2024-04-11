@@ -20,9 +20,7 @@ public class ArrayInsert {
 
         
         //2. 기존 데이터 복사하기
-        for (int i = 0; i < arr.length; i++) {
-            temp[i] = arr[i];
-        }
+        System.arraycopy(arr, 0, temp, 0, arr.length);
         //3. 삽입위치에서 데이터 뒤로 1칸씩 이동
         //   이동 순서는 끝에서부터  시작해야 함
         for (int i = arr.length; i > targetIndex; i--) {
