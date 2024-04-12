@@ -81,9 +81,7 @@ public class MethodQuiz {
 
         int loopCount = (size >= 0) ? foods.length : temp.length;
 
-        for (int i = 0; i < loopCount; i++) {
-            temp[i] = foods[i];
-        }
+        System.arraycopy(foods, 0, temp, 0, loopCount);
         return temp;
     }
 

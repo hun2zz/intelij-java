@@ -39,7 +39,7 @@ public class MethodBasic {
         // 반드시 단독 호출해서 사용한다.
         multiply(5,3);
 
-        int r2 = addAll(new int[] {1,3,5,7,9});
+        int r2 = addAll(1,3,5,7,9);
         System.out.println("r2 = " + r2);
 
         int r3 = addAll(10,20,30,40,50);
