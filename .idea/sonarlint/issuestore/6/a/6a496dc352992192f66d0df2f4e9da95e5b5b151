@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õö§Ø8Ìö‘Õì1J$d9623863-c468-4bea-834c-2c490f4d0e2b
+r	java:S106"+Replace this use of System.out by a logger.(Œíù°úÿÿÿÿ8÷‘Õì1J$df70eb39-2423-45c8-a6e4-92175e45773f
+m	java:S106"+Replace this use of System.out by a logger.(„›È¬8÷‘Õì1J$238eca42-5ec9-40fc-90ee-74d733d6b387
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç¼Âóşÿÿÿÿ8Ÿ÷‘Õì1J$0cab4fab-c16e-4b50-ada7-d3d61180a1c1
+r	java:S106"+Replace this use of System.out by a logger.(™è„ğúÿÿÿÿ8¡÷‘Õì1J$b3a14262-4568-417d-9dc7-94298b8b9291
+l	java:S106""+Replace this use of System.out by a logger.(£Š8¢÷‘Õì1J$182f7518-0fce-42b3-990f-d5049b2533ef
+m	java:S106E"+Replace this use of System.out by a logger.(Ñ¯¢Ğ8¨÷‘Õì1J$d4f856e9-c2ee-4889-93b3-4d673bae1c1d
+t
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8÷ş–Õì1J$62e65014-b637-47c7-b22d-289210d754b4

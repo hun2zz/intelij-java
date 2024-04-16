@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óøç¯ùÿÿÿÿ8É®¿‚ì1J$c928b37f-83ca-4312-a850-a1193d15e568
+{
+java:S1854$"8Remove this useless assignment to local variable "temp".(œ¯¥³8ä©Å‚ì1J$79754856-dbcb-4fe2-808c-342797a1c78e
+l	java:S106
+"+Replace this use of System.out by a logger.(¿ßÞ8æ©Å‚ì1J$dd3a26ff-9d09-4d66-9770-aff23288cf6b
+r	java:S106"+Replace this use of System.out by a logger.(óÑù“üÿÿÿÿ8æ©Å‚ì1J$a7193b68-6dda-4b98-82d3-a6ed6cf6066e
+r	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8ç©Å‚ì1J$7d109786-2860-4552-8a6e-e5831dd90c8b
+r	java:S106&"+Replace this use of System.out by a logger.(Óõ‰æüÿÿÿÿ8è©Å‚ì1J$a1da1a55-0330-41f7-bee7-99a1a751b56b
+”
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(”î©œ8é©Å‚ì1J$66492e9a-63d3-481f-a1d8-d3fe45b2fdbe
+m	java:S106("+Replace this use of System.out by a logger.(”î©œ8é©Å‚ì1J$2c2cf28f-527d-4694-ac38-bfe0e54b36f9

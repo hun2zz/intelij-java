@@ -1,0 +1,28 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™ÊäþÿÿÿÿJ$e5da4302-eed1-46a2-b81b-91029d626739
+v
+java:S1854"5Remove this useless assignment to local variable "i".(ñÊ‚ýûÿÿÿÿJ$99fd80ca-58d9-443b-ad2a-8c018966e945
+}
+java:S1854"<Remove this useless assignment to local variable "userName".(¬¹ÏüÿÿÿÿÿJ$c36dd4cb-b8f6-49b5-8f56-5289d4231be2
+z
+java:S1854
+"9Remove this useless assignment to local variable "score".(ÿÙ£½ùÿÿÿÿJ$5970514b-5abb-4f12-b9a7-148156bd4629
+r
+java:S1854"6Remove this useless assignment to local variable "n3".(è¾ºÿJ$27be0c1f-c77c-428a-84a3-be58f3d3c78e
+k	java:S106	"+Replace this use of System.out by a logger.(€¦”úÿÿÿÿJ$f8381498-0e8a-4466-8eb2-66f577b50881
+k
+java:S1481
+"*Remove this unused "score" local variable.(ÿÙ£½ùÿÿÿÿJ$a4fb0944-73d3-47cf-8fe4-1104ed8d02ed
+n
+java:S1481"-Remove this unused "userName" local variable.(¬¹ÏüÿÿÿÿÿJ$e0d3393b-5a51-47fe-9ab3-d89e88182def
+s
+java:S1481"2Remove this unused "userN32Ame123" local variable.(ù»£üÿÿÿÿJ$9078eed0-13e7-4fb2-ae22-a05612104dca
+g
+java:S1481"&Remove this unused "i" local variable.(ñÊ‚ýûÿÿÿÿJ$36d67dfe-bed7-434e-bf47-7c3c5e21b926
+k	java:S106"+Replace this use of System.out by a logger.(Ã”…ªûÿÿÿÿJ$8004eac1-d75a-4f31-a322-225104c2623d
+e	java:S106"+Replace this use of System.out by a logger.(Î±äJ$48475906-8988-4f1b-bce5-7579e23c83c8
+f	java:S106"+Replace this use of System.out by a logger.(‹ÿî­J$6ea01ee0-089b-45cd-87a9-835afeef4163
+c
+java:S1481"'Remove this unused "n3" local variable.(è¾ºÿJ$e456069e-8944-492f-9100-5083a2040484
+f	java:S106!"+Replace this use of System.out by a logger.(‹ÿî­J$21aa4339-b40a-42ec-a826-83e538ce25a5
+f	java:S106#"+Replace this use of System.out by a logger.(‹ÿî­J$e8b12d14-1358-4432-b9ed-757eebe4e9a7

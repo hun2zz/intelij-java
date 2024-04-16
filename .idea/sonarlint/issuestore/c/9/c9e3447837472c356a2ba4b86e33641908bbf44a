@@ -1,0 +1,31 @@
+
+
+java:S2184$"HCast one of the operands of this multiplication operation to a "double".(¶˜¨Èùÿÿÿÿ8•·¸Øë1J$60851c45-45a4-429e-9df2-2dd7724f1486
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäşÿÿÿÿ8–·¸Øë1J$f35a0df8-c051-43c9-805e-eb5572d3c852
+~
+java:S1854$"6Remove this useless assignment to local variable "r2".(¶˜¨Èùÿÿÿÿ8œ·¸Øë1J$ef275bd5-72f6-4bff-aa33-801d7d7b6c60
+y
+java:S1854 "6Remove this useless assignment to local variable "f2".(Üñ·8œ·¸Øë1J$162b7930-654a-4f70-a8f5-e295ce27a0bf
+y
+java:S1854"6Remove this useless assignment to local variable "f1".(©¥ñ®8œ·¸Øë1J$25d22ae8-58ce-42cd-8422-3839b9e654f0
+y
+java:S1854"6Remove this useless assignment to local variable "v1".(ä†Ë–8œ·¸Øë1J$fdc368d6-7cf8-48a4-8bf5-57d6a9292ba0
+w
+java:S1854"5Remove this useless assignment to local variable "n".(¨ÔÑ*8œ·¸Øë1J$216ba16b-a975-42e9-ba34-8c8d9ea246db
+x
+java:S1854"5Remove this useless assignment to local variable "j".(âÓöğ8œ·¸Øë1J$a99f5f10-59e0-4342-a9c6-80725cad49b4
+r	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8·¸Øë1J$2906be84-ad3e-44f6-a92d-c35eb2e26498
+r	java:S106"+Replace this use of System.out by a logger.(­ğ»œüÿÿÿÿ8Ÿ·¸Øë1J$a588dcfc-1798-43ad-b515-83d8d0561b0f
+i
+java:S1481"&Remove this unused "j" local variable.(âÓöğ8Ÿ·¸Øë1J$914fba2f-08db-4d1f-8ac0-e87105f151a6
+h
+java:S1481"&Remove this unused "n" local variable.(¨ÔÑ*8 ·¸Øë1J$98611d1a-31d1-4892-9ae4-d98304319257
+j
+java:S1481"'Remove this unused "v1" local variable.(ä†Ë–8 ·¸Øë1J$d8ff64a2-cfc9-4381-9538-a49fa15b4626
+j
+java:S1481"'Remove this unused "f1" local variable.(©¥ñ®8 ·¸Øë1J$9a7adb81-9701-4df5-9f6b-0c8826d14dfc
+j
+java:S1481 "'Remove this unused "f2" local variable.(Üñ·8 ·¸Øë1J$4ef62d01-d7da-48a3-a981-81c689a5e061
+o
+java:S1481$"'Remove this unused "r2" local variable.(¶˜¨Èùÿÿÿÿ8¡·¸Øë1J$28e942d1-9dbe-428f-ac3f-e3ede896b310
+r	java:S106-"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8¢·¸Øë1J$4ae288d2-e786-45cd-817b-6f22ac4ebf2c

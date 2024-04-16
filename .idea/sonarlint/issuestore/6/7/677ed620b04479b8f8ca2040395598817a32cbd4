@@ -1,0 +1,12 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8İ™›ƒì1J$5e86b9b4-2e1e-487a-98a5-c62fcd85a37c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óøç¯ùÿÿÿÿ8Ø†šƒì1J$0364db60-6b8f-4c66-a90b-7c66b98f5f01
+^
+java:S3626("Remove this redundant jump.(ÉŠ©ƒ8õ™›ƒì1J$8cdb73c4-cd16-478b-852b-035051b2a138
+m	java:S106"+Replace this use of System.out by a logger.(‹ßş‹8”‡šƒì1J$cf1e5883-3427-4c82-93dc-d728cf009ae9
+r	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8•‡šƒì1J$bb4cfbc0-4103-4cce-8025-183629017dfe
+r	java:S106"+Replace this use of System.out by a logger.(€àÙ«ıÿÿÿÿ8•‡šƒì1J$e978673b-201e-42a8-9afd-20ecab643b52
+r	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8•‡šƒì1J$313afa01-aaa8-4746-8d3d-ac2b77b2bc75
+r	java:S106#"+Replace this use of System.out by a logger.(„¨–¸øÿÿÿÿ8–‡šƒì1J$15d7eb70-0fbe-4487-93fa-1399aebff8c8
+r	java:S106$"+Replace this use of System.out by a logger.(äí¹şÿÿÿÿ8–‡šƒì1J$582f02e7-9e2f-48dd-b9eb-084589ea90f7
+m	java:S106'"+Replace this use of System.out by a logger.(®î•Ö8–‡šƒì1J$02eed959-9cba-4235-b670-7627cf617388

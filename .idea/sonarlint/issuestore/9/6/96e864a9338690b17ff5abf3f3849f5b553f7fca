@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æêÒ€úÿÿÿÿ8±ŸÜ×ì1J$825b5d59-a45a-48d0-93b0-e9e12699022a
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(õç´¿8´ŸÜ×ì1J$f022bf26-efb4-42d9-b747-70a814a5745d
+m	java:S106"+Replace this use of System.out by a logger.(õç´¿8µŸÜ×ì1J$01b45c8d-ccc6-4c9f-953c-31af3787a427
+r	java:S106"+Replace this use of System.out by a logger.(Áæ«ªùÿÿÿÿ8µŸÜ×ì1J$5ae7fdf7-b78f-46d6-bb7b-366455084960
+m	java:S106"+Replace this use of System.out by a logger.( ë˜À8µŸÜ×ì1J$aa555d35-6d78-4746-9c02-3d9c2557a54a
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï‹ù´üÿÿÿÿ8¶ŸÜ×ì1J$0b4153c9-9a7a-46d7-b382-33509946e5e1
+r	java:S106"+Replace this use of System.out by a logger.(ï‹ù´üÿÿÿÿ8¶ŸÜ×ì1J$7b85fe0c-c33f-4e1c-88b0-5472e3449c67
+r	java:S106"+Replace this use of System.out by a logger.(ôõ¿üûÿÿÿÿ8þá—Øì1J$5107f2f8-5e16-40b4-b43f-0f79b3ac2985
+m	java:S106"+Replace this use of System.out by a logger.(…ó‡Û8é‡˜Øì1J$613ba8c2-d1e6-4301-a88c-497d979753da

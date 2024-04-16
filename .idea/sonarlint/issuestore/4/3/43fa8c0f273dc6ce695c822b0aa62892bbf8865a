@@ -1,0 +1,18 @@
+
+ª
+java:S14888"bImmediately return this expression instead of assigning it to the temporary variable "menuNumber".(ššöàÿÿÿÿÿ8óÚ¦î1J$6b648eb5-f781-4088-ba97-03e07d92e62a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8õÚ¦î1J$873ecbe7-1703-4f17-bd57-8b039afcc50c
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÜ–úÿÿÿÿ8ûÚ¦î1J$27f61298-86cc-4f00-868e-0ba4ba4f7bfa
+r	java:S106"+Replace this use of System.out by a logger.(ÎÜ–úÿÿÿÿ8ûÚ¦î1J$6d2846bd-ee18-4af0-bd44-0002286b844d
+r	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8ûÚ¦î1J$3f823ffb-37e6-4574-959d-01458a587466
+m	java:S106 "+Replace this use of System.out by a logger.(£çàÁ8üÚ¦î1J$863fc8c7-d1f9-4c4e-aeac-609f4ffc9c7d
+r	java:S1060"+Replace this use of System.out by a logger.(î¯ÿıûÿÿÿÿ8ıÚ¦î1J$33de2025-758f-4456-8287-173481f29f75
+r	java:S1061"+Replace this use of System.out by a logger.(»§¦·ûÿÿÿÿ8ıÚ¦î1J$6fcd400a-4835-4c2e-83cb-4db5bc51d94a
+m	java:S1062"+Replace this use of System.out by a logger.(æÃ²ó8ıÚ¦î1J$298d5232-0834-4c9c-a3e8-3cf766e121f8
+m	java:S1063"+Replace this use of System.out by a logger.(¸¸½8ıÚ¦î1J$ac1d584e-7f6c-47cc-820e-071dda033cf0
+l	java:S1064"+Replace this use of System.out by a logger.(ÙÚX8şÚ¦î1J$4ed8f892-58fc-46df-993c-ec02d3a438bc
+m	java:S1065"+Replace this use of System.out by a logger.(ÜÇÔİ8şÚ¦î1J$5613bfb2-cb14-40b4-a5af-7f1424b4e7ae
+r	java:S1066"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ8şÚ¦î1J$9cf00176-6f16-41d3-a810-76b024b814d8
+r	java:S106@"+Replace this use of System.out by a logger.(’Ñµ£şÿÿÿÿ8şÚ¦î1J$1a571da3-44e6-40d9-b926-e01fee8d17d0
+l	java:S106D"+Replace this use of System.out by a logger.(ÜÚû48şÚ¦î1J$9ebc0745-d171-4259-a443-86bf311e4990

@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õö§Ø8Œø…ì1J$92973577-b760-47bc-abbd-ab04113d18a0
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒëÇâüÿÿÿÿ8“ø…ì1J$5cb7af22-36a0-48b3-8eb6-a00a8a76470f
+r	java:S106"+Replace this use of System.out by a logger.(ƒëÇâüÿÿÿÿ8”ø…ì1J$6cbe2354-cfb1-4148-878e-1fed18db9f71
+~
+java:S1854-"6Remove this useless assignment to local variable "r3".(ŒÃ°ãşÿÿÿÿ8•ø…ì1J$8e3d9d39-c1ab-4e13-b4e0-4e146fa7e0c2
+r	java:S106$"+Replace this use of System.out by a logger.(Ï‚…Úûÿÿÿÿ8•ø…ì1J$0af24d39-dffb-4aac-bb23-ecb23fd680b9
+r	java:S106+"+Replace this use of System.out by a logger.(ªùïûÿÿÿÿ8–ø…ì1J$7889f815-e062-4f5b-926c-62d629f56e36
+o
+java:S1481-"'Remove this unused "r3" local variable.(ŒÃ°ãşÿÿÿÿ8–ø…ì1J$aa014f7c-3b12-46fe-8894-aa132c559574
+m	java:S1060"+Replace this use of System.out by a logger.(œµÖ‹8ÿ†–†ì1J$3863afc4-3f0d-4858-8265-f6032b831422

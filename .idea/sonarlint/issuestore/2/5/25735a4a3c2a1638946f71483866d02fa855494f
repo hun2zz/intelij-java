@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æêÒ€úÿÿÿÿ8Úâ”×ì1J$dec19f88-e0aa-45ca-afac-3acb57d6d6b1
+m	java:S106"+Replace this use of System.out by a logger.(Ö‘ıÜ8àâ”×ì1J$db07755e-a4c4-4eca-9242-b3a2664a1f60
+r	java:S106"+Replace this use of System.out by a logger.(‹±£²ùÿÿÿÿ8àâ”×ì1J$cee63edb-3c23-461d-9b79-bab712769ea1
+m	java:S106"+Replace this use of System.out by a logger.(ˆœ„³8àâ”×ì1J$f3e56aa7-efa0-4f44-811d-9f26c00697a6
+m	java:S106"+Replace this use of System.out by a logger.(‚°8áâ”×ì1J$ca83d9fc-04a3-4ef0-9f75-6efc057b7e27
+”
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(£Ê÷¢8áâ”×ì1J$2e664b25-0ad4-4f1d-8940-928c28682a36
+m	java:S106$"+Replace this use of System.out by a logger.(£Ê÷¢8áâ”×ì1J$ef1257b6-4582-464e-a038-b821f1051799
+p
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8ââ”×ì1J$eb5fada0-069c-4be2-8a67-18d92159d506

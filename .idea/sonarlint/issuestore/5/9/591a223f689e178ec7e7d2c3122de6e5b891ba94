@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8¤ÏÅ¦î1J$bab719e5-56b2-46ae-b7ba-3e521004d853
+g
+java:S3010
+"$Remove this assignment of "members".(½ÚÔ—8©ÏÅ¦î1J$a0ec5b8c-7d4d-4241-8db7-9cbb4155c07e
+l
+java:S3010"$Remove this assignment of "members".(áÙ³¶ùÿÿÿÿ8©ÏÅ¦î1J$108c2153-e020-4c5b-8fa4-c0ea1e1330a3
+f
+java:S3010"$Remove this assignment of "members".(øÁÌ#8©ÏÅ¦î1J$24643cac-60d5-4101-bc9d-f0dd6da3f050
+l
+java:S3010"$Remove this assignment of "members".(‘ºáğøÿÿÿÿ8©ÏÅ¦î1J$515058c6-c863-4318-b2d3-42e149356232
+x
+java:S2209
+"5Change this instance-reference to a static reference.(½ÚÔ—8ªÏÅ¦î1J$0d2e0051-750f-4c15-8453-d074c3e19a38
+›
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ì•Ì{8«ÏÅ¦î1J$cdc5e23f-765e-4dc8-b1bd-3f907a9b1df9
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(·Ç²8¬ÏÅ¦î1J$8995d5b8-3101-4bec-a9da-a284e3d9dc3f

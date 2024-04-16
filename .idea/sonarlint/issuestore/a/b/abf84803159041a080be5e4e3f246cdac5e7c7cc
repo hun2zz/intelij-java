@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óøç¯ùÿÿÿÿ8¹™ÙÙë1J$0e88a167-a6d8-4447-a8bb-37eb119f8980
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¿™ÙÙë1J$0b858672-3169-447e-8a90-d70c0cc33a60
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‰Ó˜Àşÿÿÿÿ8À™ÙÙë1J$16407d31-8ba5-4f1e-a31b-47bcb445d0f0
+r	java:S106"+Replace this use of System.out by a logger.(‰Ó˜Àşÿÿÿÿ8Á™ÙÙë1J$e4ec2885-0093-4e32-9b06-13c4fd1a5c48
+“
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï¼ŒX8Á™ÙÙë1J$808ebbfd-b811-4d40-8ba1-60444607641d
+l	java:S106"+Replace this use of System.out by a logger.(ï¼ŒX8Á™ÙÙë1J$79b36367-7f16-4a74-b009-dc38f09ee88c
+r	java:S106"+Replace this use of System.out by a logger.(ìÉ©°şÿÿÿÿ8Ã™ÙÙë1J$aad82510-a6ae-4a00-b166-37841feca696
+r	java:S106"+Replace this use of System.out by a logger.(÷™ÕÏúÿÿÿÿ8Ä™ÙÙë1J$02038eac-18bb-400e-96af-9d1b0f4ef208
+m	java:S106"+Replace this use of System.out by a logger.(çº‡˜8Ä™ÙÙë1J$abc4ca5f-816f-4732-a13b-ded782134955
+r	java:S106"+Replace this use of System.out by a logger.(²ÃŠÕøÿÿÿÿ8ø´ÜÙë1J$b48f0303-9399-437d-87da-fb83ddba3bb8

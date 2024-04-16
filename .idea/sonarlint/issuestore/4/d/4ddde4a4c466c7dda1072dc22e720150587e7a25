@@ -1,0 +1,7 @@
+
+„
+java:S2184"BCast one of the operands of this addition operation to a "double".(ž°’a8æ¢‹Ùë1J$9c2767ec-1adc-41f4-9189-95f834f22977
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäþÿÿÿÿ8ç¢‹Ùë1J$cbc734d6-a27e-479e-8aba-5f4f7e57a8cf
+k
+java:S2140")Use "java.util.Random.nextInt()" instead.(ž°’a8ì¢‹Ùë1J$661bd2aa-2db4-40c0-8fba-7cf88c711a19
+m	java:S106"+Replace this use of System.out by a logger.(„Íêˆ8í¢‹Ùë1J$b6c37a03-6118-4109-b661-8f037bc08ffe

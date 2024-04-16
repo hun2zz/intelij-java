@@ -1,0 +1,24 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óøç¯ùÿÿÿÿ8Œ‘œÛë1J$4b3f0f5f-e088-478d-a304-7b10102cf3a4
+z
+java:S1854:"8Remove this useless assignment to local variable "pets".(µ¯¨u8õ½ÃÛë1J$88b35112-2f74-42f6-b8c9-918902f92756
+{
+java:S18549"8Remove this useless assignment to local variable "pets".(Çå•“8õ½ÃÛë1J$10f76c1a-a901-4aa3-8128-3357b91ee259
+r	java:S106"+Replace this use of System.out by a logger.(’”Å¼ÿÿÿÿÿ8÷½ÃÛë1J$9e8f0cad-126d-48a8-a06e-e0e00a9802ac
+r	java:S106"+Replace this use of System.out by a logger.(ı±Éøÿÿÿÿ8÷½ÃÛë1J$d0ce9050-17b7-4430-877b-eee2bf7b17f4
+~	java:S125"<This block of commented-out lines of code should be removed.(åğƒ8÷½ÃÛë1J$bb418329-6b99-483b-ac0e-63092c5c1c73
+m	java:S106""+Replace this use of System.out by a logger.(Ğ—Íè8÷½ÃÛë1J$c0e0d7ab-dbbe-4c24-acbd-01dea9171ece
+™
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(‰´ˆûÿÿÿÿ8ø½ÃÛë1J$98a855ae-9718-4244-8c18-1645c87167d2
+r	java:S106%"+Replace this use of System.out by a logger.(‰´ˆûÿÿÿÿ8ø½ÃÛë1J$fdd41b3d-2cf2-4e8b-85de-0bc732505186
+m	java:S106("+Replace this use of System.out by a logger.(Ğ—Íè8ø½ÃÛë1J$8ec02652-f42e-441d-ad16-bf1594b5bb48
+r	java:S106,"+Replace this use of System.out by a logger.(Û Ïæûÿÿÿÿ8ù½ÃÛë1J$270d73bb-3270-423f-8e35-a7d038ce69e5
+m	java:S1060"+Replace this use of System.out by a logger.(Û‰Ã¡8ù½ÃÛë1J$c7d3dac4-23b1-48b1-bdc4-4facae40a67d
+r	java:S1065"+Replace this use of System.out by a logger.( şñèûÿÿÿÿ8ù½ÃÛë1J$d8464a2f-e9ea-43fe-9799-2b31d8d24a3c
+l
+java:S14819")Remove this unused "pets" local variable.(Çå•“8ù½ÃÛë1J$ee5e6538-63bc-47fd-8467-584d27993698
+r	java:S106D"+Replace this use of System.out by a logger.(¤üêûÿÿÿÿ8Š™ÔÛë1J$5bf1b1ca-67df-42b4-876d-bcf8f43640df
+m	java:S106E"+Replace this use of System.out by a logger.(ñ±Ì8Š™ÔÛë1J$387935e4-d2b0-425b-80e1-64df8644d65f
+r	java:S106F"+Replace this use of System.out by a logger.(ÿÛ—šıÿÿÿÿ8‹™ÔÛë1J$02ac34aa-590a-43eb-919a-d2db2fa62ee0
+r	java:S106G"+Replace this use of System.out by a logger.(ÀèÏûÿÿÿÿ8‹™ÔÛë1J$428d6b07-9092-42ef-bfaa-9f04d08e38c8
+m	java:S106H"+Replace this use of System.out by a logger.(íš¢ò8‹™ÔÛë1J$a979a745-1212-4ca1-8f66-9c4971530d87
