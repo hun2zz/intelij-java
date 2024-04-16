@@ -20,5 +20,13 @@ public class Test {
 
 
         Member[] members = {m1, m2};
+
+        System.out.println("===========================");
+        MemberRepository mr = new MemberRepository();
+        MemberView mv = new MemberView();
+        mr.addNewMember(new Member("123","321","임","남",12));
+
+        mv.showMembers();
+
     }
 }
