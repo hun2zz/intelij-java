@@ -37,4 +37,8 @@ public class Member {
         return String.format("# 이름 : %s, 이메일 : %s, 나이 : %d세, 성별: %s, 가입일: %s,",
                 this.memberName,this.email,this.age,this.gender,this.regDate);
     }
+    public String toStringPass() {
+        return String.format("# 이름 : %s, 패스워드 : %s, 이메일 : %s, 나이 : %d세, 성별: %s, 가입일: %s,",
+                this.memberName,this.password,this.email,this.age,this.gender,this.regDate);
+    }
 }

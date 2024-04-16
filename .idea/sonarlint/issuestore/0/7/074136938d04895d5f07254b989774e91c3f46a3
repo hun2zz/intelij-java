@@ -1,10 +1,10 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨þ‹ùÿÿÿÿ8–´äþì1J$fbe47cb4-b892-4c1a-95f6-dcded51e5613
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¨þ‹ùÿÿÿÿ8–´äþì1J$1d4f0a5f-8471-4993-84b7-29e75192070b
 ›
-java:S3012""YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8 ´äþì1J$bd901543-9ec4-4949-ab6c-89d2fa724d7f
+java:S3012""YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8 ´äþì1J$a6538e25-c6d1-473d-8b81-41df35ab7625
 ›
-java:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8¡´äþì1J$422d89a5-9f10-4c34-8922-51d266bc3aba
+java:S3012,"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8¡´äþì1J$c27f002a-aef7-458a-adc8-da0499a8d72c
 ›
-java:S3012]"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8£´äþì1J$78a7f3c2-31a8-462c-a6dc-22c64ef041d9
+java:S3012]"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÅüÎy8£´äþì1J$3d70e56f-0859-453e-9444-0e9251c38e86
 ‰
-java:S1126s"AReplace this if-then-else statement by a single return statement.(…˜á’øÿÿÿÿ8¤´äþì1J$dab78de5-25d9-427d-b736-a66a5c3cb638
+java:S1126s"AReplace this if-then-else statement by a single return statement.(…˜á’øÿÿÿÿ8¤´äþì1J$8db8ec37-2954-4b32-b053-bdc17abb00ac

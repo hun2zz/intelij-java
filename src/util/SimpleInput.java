@@ -12,4 +12,9 @@ public class SimpleInput {
         System.out.print(message);
         return sc.nextLine();
     }
-}
+
+    public void  stopInput()
+    {
+        System.out.println("==========엔터를 누르면 계속...===========");
+        sc.nextLine();
+    }}

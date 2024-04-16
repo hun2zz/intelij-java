@@ -4,6 +4,7 @@ public class ListMain {
 
     public static void main(String[] args) {
 
+//        String[] foods = new String[5];
 
         StringList foods = new StringList();
         StringList userNames = new StringList();
