@@ -32,7 +32,7 @@ public class Dancer {
     }
 
     //춤추느 기능
-    void dance() {
+    public void dance() {
         System.out.printf("%s 댄서가 %s춤을 춥니다.\n",dancerName, genre);
     }
 
@@ -41,7 +41,7 @@ public class Dancer {
     //객체가 생성될 때, 초기 값을 세팅해주는 함수의 일종
     //1. 생성자는 함수의 일종인데 반드시 이름이 클래스 이름과 같아야 함.
     //2. 생성자는 리턴값이 없음. 따라서 void가 생략됨
-    Dancer() {
+    public Dancer() {
       dancerName = "춤꾼";
       crewName = "팝핀크루";
       genre = "케이팝";
