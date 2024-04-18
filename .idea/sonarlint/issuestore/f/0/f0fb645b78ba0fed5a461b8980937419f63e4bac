@@ -1,0 +1,23 @@
+
+–
+java:S1104"NMake f1 a static final constant or non-public and provide accessors if needed.(„–¤Üÿÿÿÿÿ8ˆšœÍî1J$b0393821-086a-43a7-96f7-6724c028cdde
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÃÙÄ8ŠšœÍî1J$39fd7195-8ccd-480f-926c-7dbfc1a5c020
+É
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ÄŸÕùÿÿÿÿ8šœÍî1J$ac18d3fd-c6a8-4dff-beab-840cc04a946d
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åú»ãüÿÿÿÿ8šœÍî1J$c8337797-c93d-4fec-8698-1a1d5f76e91e
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôòÛúÿÿÿÿ8šœÍî1J$1b820ab1-bc6a-4823-9f1d-3f9d5f92117a
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–šâ¤øÿÿÿÿ8šœÍî1J$d43d1ffb-1d16-45f4-8260-e86a3afa7ba5
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡ö¯­ıÿÿÿÿ8šœÍî1J$8307317d-cd2d-451b-8ef1-bbdb9b96df63
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´‡·åşÿÿÿÿ8šœÍî1J$1a9405b7-fd0e-4d3b-ad24-4c6aa745c95e
+™
+java:S1450"QRemove the "f3" field and declare it as a local variable in the relevant methods.(Ê‘•üÿÿÿÿ8‘šœÍî1J$41446bfd-e3a2-4bab-a623-c0a935e28744
+p
+java:S1172"(Remove this unused method parameter "c".(´‡·åşÿÿÿÿ8“šœÍî1J$d6e154e8-301d-4564-ab5d-b03c8a2b377b
+n
+java:S1068"&Remove this unused "f3" private field.(Ê‘•üÿÿÿÿ8—šœÍî1J$9ec99c72-ee35-4c51-ad67-efb500011082

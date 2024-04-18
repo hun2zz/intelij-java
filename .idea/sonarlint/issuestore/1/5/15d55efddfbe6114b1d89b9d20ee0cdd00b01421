@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õù¥8—ÂåÏî1J$b133e664-fc28-41f2-9907-b0ca7cd5f303
+m	java:S106"+Replace this use of System.out by a logger.(­¦øÕ8ŸÂåÏî1J$4e51f8ea-a96b-4e16-ac35-77a555ac3d18
+r	java:S106"+Replace this use of System.out by a logger.(ú¿çÂÿÿÿÿÿ8ŸÂåÏî1J$2317edbd-2bc3-4690-8197-19d8432265d9
+r	java:S106"+Replace this use of System.out by a logger.(Åˆ¶ôúÿÿÿÿ8ŸÂåÏî1J$2b33074f-6352-45ab-a89c-57651843181b
+r	java:S106"+Replace this use of System.out by a logger.(àƒ°Îüÿÿÿÿ8ŸÂåÏî1J$0d1480db-16f8-4ffa-a386-98b467579a69
+m	java:S106!"+Replace this use of System.out by a logger.(‰¦¬à8 ÂåÏî1J$4780b342-bba8-4c14-bd80-093bfbc82984
+m	java:S106("+Replace this use of System.out by a logger.(³‹ãƒ8 ÂåÏî1J$38cdea95-fe6b-4e23-8199-a0d3e291a762
+r	java:S106-"+Replace this use of System.out by a logger.(¤ÂÌèÿÿÿÿÿ8¡ÂåÏî1J$ecf675a4-4365-4740-ba4b-e8d6f1c7932a
+m	java:S1068"+Replace this use of System.out by a logger.(­ÌÊŠ8¡ÂåÏî1J$255c3423-a312-4547-a9ea-b5feb9a94e69
+q
+java:S1068")Remove this unused "model" private field.(¢ë–úÿÿÿÿ8£ÂåÏî1J$69a863a8-efde-4e89-9a5a-4bd6605d5541

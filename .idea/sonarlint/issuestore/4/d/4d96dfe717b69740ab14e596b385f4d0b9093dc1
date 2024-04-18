@@ -1,0 +1,14 @@
+
+–
+java:S1104"NMake z1 a static final constant or non-public and provide accessors if needed.(Óó¯Œúÿÿÿÿ8©‰àÍî1J$0d563332-9777-49d9-a622-c94a737b2915
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÃÙÄ8ª‰àÍî1J$5aecf469-6886-4611-9bb2-1670d81a6dc0
+}
+java:S1854"5Remove this useless assignment to local variable "a".(íëıÖúÿÿÿÿ8«‰àÍî1J$887a64e4-e377-4a3c-a7db-2a00d0851f9b
+y
+java:S1854"6Remove this useless assignment to local variable "a2".(à³©Ò8¬‰àÍî1J$a140ca20-95df-4ff3-9b9f-a8542054a9f7
+j
+java:S1481"'Remove this unused "a2" local variable.(à³©Ò8­‰àÍî1J$d1a5e957-e41a-4f92-98d2-36ba87323d8b
+n
+java:S1481"&Remove this unused "a" local variable.(íëıÖúÿÿÿÿ8­‰àÍî1J$3fac4cf3-0743-45bd-8de4-2af1286437d9
+i
+java:S1068	"&Remove this unused "z3" private field.(÷™–8–¡àÍî1J$db556394-acb6-43d0-9274-b4f07c5de50b

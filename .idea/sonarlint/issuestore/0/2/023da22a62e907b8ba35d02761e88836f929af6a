@@ -1,0 +1,5 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°êåËùÿÿÿÿ8¸ÉÒÐî1J$6642dd98-242a-468d-b223-c3d609170bac
+—	java:S116"PRename this field "Brand" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Þ‡Éûÿÿÿÿ8¹ÉÒÐî1J$1dc440d4-6398-40c9-a69b-53c515e250bc
+—	java:S116"PRename this field "Model" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñá¿²øÿÿÿÿ8¹ÉÒÐî1J$5a72e75a-aba5-4b58-b044-87f86d75f554
+–	java:S116"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæ·”ùÿÿÿÿ8¹ÉÒÐî1J$8d711b61-de9c-4694-acbf-c3fd87aac38c

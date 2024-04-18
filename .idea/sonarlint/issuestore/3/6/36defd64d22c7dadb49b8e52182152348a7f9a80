@@ -1,6 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8óƒæ²î1J$4e864ecb-aef4-4ad4-aa7a-4b3aa4c35a9f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8óƒæ²î1J$9a4ddac8-9d5c-4b43-ad0f-baa418d89479
 ¡
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8ùƒæ²î1J$7feb8072-6d61-4c31-bb95-17155d8a4c36
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8ùƒæ²î1J$f8ed6399-40cd-4ea8-9d7d-289459a7467d
 ¡
-java:S3012/"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8úƒæ²î1J$200a057f-6949-4d89-82f9-01563af8cb3d
+java:S3012/"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8úƒæ²î1J$dc00382c-39fa-4118-8027-877f600f58e3

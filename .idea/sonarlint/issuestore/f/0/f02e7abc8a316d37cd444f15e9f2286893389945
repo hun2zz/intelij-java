@@ -1,0 +1,5 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°êåËùÿÿÿÿJ$3be76bf9-4115-4547-b9e8-7fd6d07dbd64
+–	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8ø¾ÊĞî1J$4d995aff-dffc-4402-bcd3-3798e9f6da62
+–	java:S116"TRename this field "StudentId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïë¡¦8ø¾ÊĞî1J$d09c829d-f11d-466c-bbcd-5ab514e1b5e1
+œ	java:S116"URename this field "Department" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”îÿÿÿÿÿ8ÆüÊĞî1J$a3e2a582-12e5-4140-b1b3-103fffc83b8e

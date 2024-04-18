@@ -1,0 +1,5 @@
+
+Ў	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°кеЛщяяяя8ОСбРо1J$3f10d2de-f0e6-4098-a32d-296d605473a7
+–	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Й¬­Бшяяяя8РСбРо1J$67a9fb42-b214-472f-ba26-281c629e4ea0
+—	java:S116"PRename this field "Price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ћфУ»ъяяяя8РСбРо1J$39b8dd33-bd93-4c81-9c90-274a8d3649ef
+—	java:S116"PRename this field "Stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Щоцьяяяя8РСбРо1J$6010eb1c-71a7-45c5-bbc9-eed8d3e8e0e4
