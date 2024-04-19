@@ -1036,3 +1036,25 @@ Z
 *src/day09/poly/computer/quiz/Computer.java,2/d/2da1dcfbef1b3f52c85b606be77ae1801bdfb767
 V
 &src/day09/poly/computer/quiz/Main.java,e/a/ea27561ea32b9e8ffe837830cf0e98dd07f8ffb8
+H
+src/book/RentStatus.java,8/6/86ce7c759cc35216d65a413632f1ae052e6acd45
+F
+src/book/BookUser.java,2/6/268442b2cd47e697eee5acfa286fb5d7dfdaf0d7
+B
+src/book/Book.java,0/2/022198caa5ffda706e51835fc8caf0a941b3445c
+I
+src/book/CartoonBook.java,1/4/14c27a8b59009022868f6d1ed6df8bbbf76150ce
+F
+src/book/CookBook.java,1/0/104d90b3ee0c1d4b0d61b8183d3ef95e8061ca60
+O
+src/book/LibraryRepository.java,9/2/92307adc7e9a1d13e22e1e36ee3653437a8c20c3
+I
+src/book/LibraryView.java,d/5/d5318ae7e438113717833988b2dd018e5509ee89
+A
+src/book/Run.java,6/9/69cca2c25809f503c76664f20818003e1fb72b00
+L
+src/day03/member/Gender.java,7/0/70934ab7d4972ef477695c135fc8fde199514fc0
+F
+src/book/BookList.java,e/0/e0c6538787771cd32f79bd4a99428ed91d147878
+L
+src/book/BookController.java,3/7/3791978a2bb6b3fb806dbcdd399181fd6cd42607
