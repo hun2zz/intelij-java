@@ -1,7 +1,15 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í§ìÁJ$1b34b601-7d80-4657-a7ea-efeb5f1362f5
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸‰«¢8’ÒêÕî1J$38c16978-c25c-4805-87da-84da1ac5585d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í§ìÁ8ºØ· ï1J$1d537b9f-6286-493a-bc0b-261fa4a6e65a
 |
-java:S1161":Add the "@Override" annotation above this method signature(üÖÉq8£¼µ×î1J$faff6a53-52ea-4266-bc19-a8c9b95b650a
-r	java:S106"+Replace this use of System.out by a logger.(ï™‚ñşÿÿÿÿ8¤¼µ×î1J$4c4aecf4-a6fa-49f6-9432-905eece616f9
+java:S1161":Add the "@Override" annotation above this method signature(üÖÉq8ÍÂ ï1J$f4921598-e3c3-4b13-8fd9-d753368ba4ed
+r	java:S106"+Replace this use of System.out by a logger.(Ò€îªøÿÿÿÿ8ÎÂ ï1J$d858cc45-1570-4de2-893e-bd3a82ef11b9
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÃÛ·÷ûÿÿÿÿ8ĞÂ ï1J$5df590b5-82f3-44b1-9550-ebd8964c3a00
+r	java:S106"+Replace this use of System.out by a logger.(ÃÛ·÷ûÿÿÿÿ8ĞÂ ï1J$2b531337-2fdb-4e8e-964d-2842885f1571
+m	java:S106"+Replace this use of System.out by a logger.(Îªêã8ĞÂ ï1J$6bde6820-c815-47a5-a8ed-6e32867566f1
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(ÎÁèà8ÑÂ ï1J$ee8c655c-8e1b-4ddd-be51-571505fb6eeb
+”
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(ÕÅøğ8ÑÂ ï1J$23031a87-c1d7-46ea-a582-77772fc38430
+m	java:S106 "+Replace this use of System.out by a logger.(ÕÅøğ8ÑÂ ï1J$ccd8eaa9-6ecc-43e5-9c81-8406d3aecd03
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ï‡Ÿ„úÿÿÿÿ8ÒÂ ï1J$032d7130-c479-406f-ac72-f67ecf2ef0c8

@@ -1014,3 +1014,25 @@ N
 src/day09/poly/car/Driver.java,8/3/8391760497257e2be3db1e41c82fa554915293d3
 O
 src/day09/poly/car/CarShop.java,f/a/fa8ee7599750dfcbb16c3c01984278d2ed7c9fcf
+R
+"src/day09/poly/casting/Parent.java,3/0/3042afcb4edbe4f6b4fcba03308677ca2c04d750
+Q
+!src/day09/poly/casting/Child.java,e/3/e32b6fbbe8581f943b8d6740c299828a06ae7338
+P
+ src/day09/poly/casting/Main.java,8/d/8dbce2a840e3b694b8cf30178f56089c1ec17065
+Q
+!src/day09/poly/computer/quiz.java,b/6/b62e0c9a5c6b623af4c0cc586f65e70f1954ec52
+V
+&src/day09/poly/computer/quiz/연습.md,f/7/f7ee8279ed8d7c89841ecf697e368436951e89c3
+^
+.src/day09/poly/computer/quiz/ComputerPart.java,f/b/fbfcc08406a2f4f2b241712a63cbc2f7ebfc3e2c
+[
++src/day09/poly/computer/quiz/Processor.java,1/1/11a86d7655b29c0d6b8226a290345a5150c45ada
+X
+(src/day09/poly/computer/quiz/Memory.java,b/0/b0a7278141e0e0b7bfde58297df70abce5458bdd
+[
++src/day09/poly/computer/quiz/HardDrive.java,1/2/12016bb3b6f6e075c1457ca021b4b5c360332e63
+Z
+*src/day09/poly/computer/quiz/Computer.java,2/d/2da1dcfbef1b3f52c85b606be77ae1801bdfb767
+V
+&src/day09/poly/computer/quiz/Main.java,e/a/ea27561ea32b9e8ffe837830cf0e98dd07f8ffb8

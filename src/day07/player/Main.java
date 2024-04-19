@@ -12,5 +12,9 @@ public class Main {
         w.showStatus();
         m.showStatus();
         h.showStatus();
+
+        System.out.println("=========================");
+
+        m.thunderbolt(w,m,h,new Mage("토끼곤듀"),new Warrior("딸긔공듀"));
     }
 }
