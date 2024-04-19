@@ -1,7 +1,7 @@
 
-t
-java:S1104"RMake nation a static final constant or non-public and provide accessors if needed.(ù³µèùÿÿÿÿ8 ÈĞõî1
-u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£–ã]8¡ÈĞõî1
-G	java:S106"+Replace this use of System.out by a logger.(“«áÉ8¤ÈĞõî1
-G	java:S106"+Replace this use of System.out by a logger.(¥Ó§¿8¤ÈĞõî1
-X	java:S125"<This block of commented-out lines of code should be removed.(ºÆ†ä8¥ÈĞõî1
+š
+java:S1104"RMake nation a static final constant or non-public and provide accessors if needed.(ù³µèùÿÿÿÿ8 ÈĞõî1J$c992843b-8401-4068-bf1b-3010236493cf
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£–ã]8¡ÈĞõî1J$f2e5684b-54b6-47ca-b1d5-cdefe2af14d4
+m	java:S106"+Replace this use of System.out by a logger.(“«áÉ8¤ÈĞõî1J$4e19c729-4bcb-4194-9eb4-234f561d3f0b
+m	java:S106"+Replace this use of System.out by a logger.(¥Ó§¿8¤ÈĞõî1J$e4c0151b-fc47-4140-b006-8db4e539c793
+~	java:S125"<This block of commented-out lines of code should be removed.(ºÆ†ä8¥ÈĞõî1J$6c0ca2b4-a31e-4915-a780-aaf16d3bb9f9

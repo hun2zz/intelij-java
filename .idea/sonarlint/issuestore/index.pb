@@ -385,12 +385,6 @@ I
 src/day07/encap/Main.java,1/4/14d983681a997017b8379e221b5f68f0e8966414
 O
 src/day07/encap/연습문제.md,1/2/1252b8ec93e0799f5c30ad6ed4d26293657c6dc1
-M
-src/day07/encap/practice.java,a/d/ad8f08d1667d6d42d097a80568002001da7e4d1b
-Q
-!src/day07/encap/practiceMain.java,4/d/4d36bd25a65ce59918da5769ed3d9a59d01b602f
-P
- src/day07/encap/BankAccount.java,0/0/00f5b6e5c798d88e00980871a0ca38e49d096ecb
 Y
 )src/day07/encap/practice/BankAccount.java,a/6/a647513eeb64255b01069fc9653ef21313cfd931
 ]
@@ -421,8 +415,6 @@ J
 src/day07/player/Main.java,f/8/f84eabcd68d749c526aadb4d3c153b755b11daff
 L
 src/day07/player/Player.java,1/c/1c41ae485da6907aeee8c605e4798e3253e75916
-R
-"src/day07/player/SuperWarrior.java,7/c/7cedefb18b048592c57d9a8757c8350821c030c5
 Q
 !src/day07/inherit/Calculator.java,e/2/e2ba7f4e6268198367debe3e3520db0815507866
 O
@@ -431,8 +423,6 @@ K
 src/day07/inherit/Main.java,4/1/4184ddb317772c12bd156ae6d66c290d2a37bc77
 Q
 !src/day07/inherit/연습문제.md,7/f/7fa24bf20f03f7c622ea060e20443bc64d51feee
-Q
-!src/day07/inherit/pratice/Tv.java,c/f/cf38fe2c2a7f7c2bfd6ea5a8af76f444c1e1a7db
 U
 %src/day07/inherit/pratice/TvMain.java,f/c/fce4cc53691a2fe92fae168aa6ea90c0aef8a3c8
 Y
@@ -464,8 +454,6 @@ K
 Q
 !src/day08/static_/Calculator.java,3/6/368346faa8b365160809d83e8b0bdcc9ac420d81
 M
-src/day08/static_/Persom.java,7/5/756a0758ec11b0a03a520a718c4ecb2e94d0aa41
-M
 src/day08/static_/Person.java,b/c/bc94bdf2b8e6c22e7c64e54cdca4ab1cb531c38c
 N
 src/day08/singleton/MyPet.java,5/7/5799a5797fe4baf1caa69654962190131ef5d94f
@@ -473,18 +461,12 @@ M
 src/day08/singleton/Main.java,4/3/439d9b5f88ddfd9b9241578ceea089fc5d6440a3
 Q
 !src/day08/static_/연습문제.md,f/3/f3d484b605234498abdbac5753e248d48d88cd27
-Q
-!src/day08/static_/department.java,d/2/d2b9a2129aee2b58cd33efd99cbfe17dec03ec6f
-Q
-!src/day08/static_/Department.java,4/b/4ba4ebc479175e210bbf0d93de3b79c43d0399e7
 Z
 *src/day08/static_/Practice/Department.java,8/5/850ba8e85363065162491ed0158d91ff140104c0
 T
 $src/day08/static_/Practice/Main.java,b/7/b74c63561208cc3b96cf391ae2c3fed24c82b295
 R
 "src/day08/static_/연습문제2.md,a/c/ac4544ef190959fbe1f14555daeb85f98bf4f054
-P
- src/day08/static_/Practice2.java,5/6/56b58f65cbc52cd4ae6fe4090dea6a4c89432fda
 X
 (src/day08/static_/practice2/Product.java,5/9/5992e035ed5be79d60c5e2a2f4a4e79e6b595a3e
 V
@@ -497,8 +479,6 @@ L
 src/day08/protec/pac1/B.java,b/2/b29ee8a8f27c9ed86a3e85f5370cc5428ba3ef0e
 L
 src/day08/protec/pac2/C.java,5/a/5a7f6147daef1dff4c3808783ac8e875317fc79c
-D
-src/module-info.java,c/d/cdc434daeee688944ced38ff1c9875422db88382
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -526,8 +506,6 @@ I
 src/day08/enum_/Main.java,7/f/7fc6337167d47918a32d9c27b8be3687ee03a45a
 P
  src/day08/enum_/PizzaStatus.java,b/3/b358e91d6879d67c02c38b0ce7865250af84935b
-X
-(src/day08/enum_/pra/연습문제/md.java,e/3/e304692fc9d9bf12c40dfae1b4c98f6f2e88d175
 Q
 !src/day08/enum_/pra/enum연습.md,2/8/28763db298e0071b53e19493c92d7bb38cc31ef9
 Q
@@ -1010,3 +988,29 @@ w
 G.idea/sonarlint/issuestore/0/3/03d7160022231d334008492ccd11889682c34691,d/5/d51c138ac5c90804aeffe15acd8a45501abb1c55
 w
 G.idea/sonarlint/issuestore/0/3/032f97e35f38b0570da375e96046a1f5c784d283,e/a/eaeaefd59edea4dd0fb209d121d5b851e9612da3
+I
+src/day09/poly/Basic.java,e/c/ec057a6842ff43f18fb9beb2119179941b5fdd00
+V
+&src/day09/poly/computer/LgMonitor.java,f/5/f5f5b731c3d8eca35267d733be93dfde3f88e484
+V
+&src/day09/poly/computer/HpMonitor.java,4/5/4502509bfeb7f652778e86284c0f09e524a1a0d3
+T
+$src/day09/poly/computer/Desktop.java,d/5/d540c000f03392093299ff1dd9b4478cda168aae
+Q
+!src/day09/poly/computer/Main.java,7/a/7adb962b2513fc0cd93ffe1ea613d3e1be02d326
+T
+$src/day09/poly/computer/Monitor.java,0/2/0232dab5fa6747f43dd8c22f8e1ffded8b3beef4
+N
+src/day09/poly/car/Sonata.java,5/2/5237839d09da353ed254b7c77a7c79f7f1e527e8
+N
+src/day09/poly/car/Tucson.java,5/7/574f3319c0320ed079afe84b4d8e3b3a481ee845
+O
+src/day09/poly/car/Mustang.java,8/2/824e90374e67c66c03b349a0d607c6342f5605b4
+L
+src/day09/poly/car/Main.java,1/4/14833a94b6da9ad2dacc54c0180992d730f232a3
+K
+src/day09/poly/car/Car.java,5/1/51922b25685a69e5adfc649b5798b909713c2df4
+N
+src/day09/poly/car/Driver.java,8/3/8391760497257e2be3db1e41c82fa554915293d3
+O
+src/day09/poly/car/CarShop.java,f/a/fa8ee7599750dfcbb16c3c01984278d2ed7c9fcf

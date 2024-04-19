@@ -1,7 +1,7 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­şö’J$7a103da1-0a62-4d84-af42-071938a09f66
-r	java:S106"+Replace this use of System.out by a logger.(š„Š×ÿÿÿÿÿ8ª¸±ôî1J$1883c1a1-8acf-421b-ad38-9883a7f4f148
-r	java:S106"+Replace this use of System.out by a logger.(ÆôÎ—ıÿÿÿÿ8¨ôÑôî1J$4cc2eacb-b130-4846-ba81-1e46ec3546ea
-r	java:S106"+Replace this use of System.out by a logger.(Ëƒ§íøÿÿÿÿ8»ìÒôî1J$8b282118-df3e-4652-a280-2fa3386fee2a
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­şö’J$b4506c79-c982-4f31-a6b6-679f4b70e085
+r	java:S106"+Replace this use of System.out by a logger.(š„Š×ÿÿÿÿÿ8ª¸±ôî1J$81998bb9-2ea4-473d-81dd-16a6f28d97fe
+r	java:S106"+Replace this use of System.out by a logger.(ÆôÎ—ıÿÿÿÿ8¨ôÑôî1J$dd8bad6b-512a-435f-9dc2-c182284f71d0
+r	java:S106"+Replace this use of System.out by a logger.(Ëƒ§íøÿÿÿÿ8»ìÒôî1J$2cb128fd-5565-4a7d-b804-3fd31cf3959c
 v
-java:S1128".Remove this unused import 'day05.juice.Peach'.(öî½‘ûÿÿÿÿ8Çš§ôî1J$2da2b457-cc91-41f7-8336-4e17c3f8460e
+java:S1128".Remove this unused import 'day05.juice.Peach'.(öî½‘ûÿÿÿÿ8Çš§ôî1J$ec9395d0-91bd-4f25-922b-05972dd9a9fc

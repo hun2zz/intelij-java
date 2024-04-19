@@ -1,9 +1,9 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ָ¦€8גַירמ1
-W	java:S125)"<This block of commented-out lines of code should be removed.(ִש³h8נַירמ1
-R
-java:S22096"5Change this instance-reference to a static reference.(µמü…8סַירמ1
-J
-java:S1128"-Remove this unused import 'util.SimpleInput'.(‘ׂ8סַירמ1
-U
-java:S1128"3Remove this unused import 'util.SimpleInput.input'.(ב§ֳÿÿÿÿÿ8סַירמ1
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ָ¦€8גַירמ1J$29fdabd8-d912-4e94-86bc-dbf15f448a79
+}	java:S125)"<This block of commented-out lines of code should be removed.(ִש³h8נַירמ1J$5ab396e5-46d6-48e5-8826-25e8f6610638
+x
+java:S22096"5Change this instance-reference to a static reference.(µמü…8סַירמ1J$56288f9a-fcd0-4214-a148-0831ea06d3f4
+p
+java:S1128"-Remove this unused import 'util.SimpleInput'.(‘ׂ8סַירמ1J$cc147e1a-ee2e-4611-8133-a486ff40a4c1
+{
+java:S1128"3Remove this unused import 'util.SimpleInput.input'.(ב§ֳÿÿÿÿÿ8סַירמ1J$0a9531b2-d15e-4351-884d-887f2eed1b01
