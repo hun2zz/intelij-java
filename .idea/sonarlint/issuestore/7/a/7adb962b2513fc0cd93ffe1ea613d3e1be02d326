@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëáå8ò†ï1J$87c4337e-2915-4a3c-b746-55df3f8fef7a
+€
+java:S1854	"=Remove this useless assignment to local variable "friendCom".(éöë¯8õ†ï1J$9201dfe4-77f7-4a4d-a32c-42aabd180c53
+q
+java:S1481	".Remove this unused "friendCom" local variable.(éöë¯8ö†ï1J$b72de042-c8dd-434a-a3eb-d51224803588

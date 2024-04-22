@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôñ€Æýÿÿÿÿ8¹œÁžð1J$f16f87c5-45bf-4983-bd8b-4ff0150d6b21
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•Ø¹ëýÿÿÿÿ8ÄœÁžð1J$cd5411c6-24c8-4457-9c92-d84e0b61a990
+i
+java:S1128"&Remove this unused import 'book.Book'.(²Úæˆ8šµÁžð1J$f1838136-15a7-4c52-b7f6-3648251b09dc
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8šµÁžð1J$d7365fc5-0152-4926-98c6-c63e9413f6be

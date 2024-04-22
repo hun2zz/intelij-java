@@ -1,0 +1,6 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¾ŸÚúÿÿÿÿ8ÊÒìþî1J$11f5c466-d571-4bbe-96d1-1ebbacc0e677
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îþÛÞýÿÿÿÿJ$3f03fba8-0fa0-4fe1-9138-dc743f2bd56f
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íƒÉª8ä¤ãþî1J$66d49b63-840d-479c-aff3-eb6156ffad83
+o
+java:S1481"'Remove this unused "PI" local variable.(Ú¾ŸÚúÿÿÿÿ8ÏÒìþî1J$75045008-a7b0-4160-a5a7-f8ce707ec556

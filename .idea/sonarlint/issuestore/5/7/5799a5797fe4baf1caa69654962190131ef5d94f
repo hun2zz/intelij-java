@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë…ùæ8˜ï€ùî1J$1cb04711-a640-4a40-b27b-88abf13fec88
+á
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(’ù‡ÿÿÿÿÿ8›ï€ùî1J$18dbf199-5846-408f-85f8-91f3db5ffcb1
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¿Œ¶ûÿÿÿÿ8 ï€ùî1J$5985da29-53b1-431e-8714-a6f83f68b986
+r	java:S106"+Replace this use of System.out by a logger.(¿Œ¶ûÿÿÿÿ8 ï€ùî1J$7c1b18ff-e01d-4498-b546-4c67ca909a58

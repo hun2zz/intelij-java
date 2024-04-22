@@ -1,0 +1,11 @@
+
+¡
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8Ë¾®§ï1J$5bd17fbc-1d5b-404f-9c18-2f0e5d1af28e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ö†ìÌýÿÿÿÿ8Ì¾®§ï1J$16e74270-67ed-4900-8001-ed5ea8b02d85
+¡
+java:S30120"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(µ¢§¢ùÿÿÿÿ8óÐ¹§ï1J$9ee87e02-0785-4fb2-8731-ed1f67e4f86e
+ƒ	java:S125@"<This block of commented-out lines of code should be removed.(ôª–æüÿÿÿÿ8ôÐ¹§ï1J$22f0e14d-e6f2-4a91-a017-ce1c8e4d927f
+œ
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(µ–ê üÿÿÿÿ8õÐ¹§ï1J$c1badff0-a601-4c63-a7bc-dea8935ac83f
+s
+java:S1128"0Remove this unused import 'day06.member.Member'.(œð’8õÐ¹§ï1J$c1ff3400-44aa-45f9-a3e1-6e1fe897c6ef

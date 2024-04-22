@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÃ´Ç8«€Ã€ï1J$1c75c295-cde8-4d9e-a14e-1bf9fdc3da90
+m	java:S106
+"+Replace this use of System.out by a logger.(ü¥Ò„8´€Ã€ï1J$54f856b3-ad16-4210-85bc-e8dc6c02c0f3
+r	java:S106"+Replace this use of System.out by a logger.(™»éşøÿÿÿÿ8µ€Ã€ï1J$f68380f1-2c2f-45bd-afbf-b243ec8898a3
+r	java:S106"+Replace this use of System.out by a logger.(®Ú÷¯ûÿÿÿÿ8ÓÄ€ï1J$e3ebe3ce-f342-470d-9f9d-dd30aa6ec0fd
+r	java:S106"+Replace this use of System.out by a logger.(êğÙÙıÿÿÿÿ8—ùÆ€ï1J$18bf15c1-649e-4b83-a160-5f15bcbf1f97
+m	java:S106"+Replace this use of System.out by a logger.(èÀ—ÿ8—ùÆ€ï1J$619e173d-f686-4e74-aa46-4673a96ef14b
+p
+java:S1068"-Remove this unused "pizzaName" private field.(‹Ÿ©ª8µ€Ã€ï1J$6f50c63d-192e-49d0-8f0b-8e575f3f1ba0

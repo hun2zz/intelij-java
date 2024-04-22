@@ -1,0 +1,29 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÐâ•üÿÿÿÿ8›‹õŸï1J$1832dab7-0575-43a6-b675-3fe7fb2f34a1
+„
+java:S1854"<Remove this useless assignment to local variable "mustang4".(„âÆªþÿÿÿÿ8¥‹õŸï1J$1769b3ee-61dc-468f-bd86-da58c0dd2933
+„
+java:S1854"<Remove this useless assignment to local variable "mustang2".(õŠÇÿÿÿÿÿ8¥‹õŸï1J$2457c2e9-6b64-4979-938c-d111ea2009c1
+
+java:S1854"<Remove this useless assignment to local variable "mustang1".(ËÖç”8¥‹õŸï1J$c4ebc975-5e4c-4253-91aa-fc03ff4b7d6a
+ƒ
+java:S1854	";Remove this useless assignment to local variable "sonata3".(´œïýúÿÿÿÿ8¥‹õŸï1J$4ae22157-1b30-4e50-92a4-afb4dd6e78ec
+ƒ
+java:S1854";Remove this useless assignment to local variable "sonata2".(ÂÍµëùÿÿÿÿ8¥‹õŸï1J$37fc4ac7-20bc-4e9b-8e9f-ee849495f51a
+t
+java:S1481",Remove this unused "sonata2" local variable.(ÂÍµëùÿÿÿÿ8¦‹õŸï1J$516cc774-c531-46d5-8c54-3fc3c437fbf0
+t
+java:S1481	",Remove this unused "sonata3" local variable.(´œïýúÿÿÿÿ8§‹õŸï1J$eddcd43b-7b77-4a10-9a64-32c6b5f9dc19
+p
+java:S1481"-Remove this unused "mustang1" local variable.(ËÖç”8§‹õŸï1J$5e2a5e85-98ae-4cdc-96ec-06e818b6c611
+u
+java:S1481"-Remove this unused "mustang2" local variable.(õŠÇÿÿÿÿÿ8¨‹õŸï1J$0cb2fdfa-77be-41f5-8aa1-f77eab113e69
+u
+java:S1481"-Remove this unused "mustang4" local variable.(„âÆªþÿÿÿÿ8¨‹õŸï1J$ee8eddb3-4748-45c2-935c-4b56a9d2413e
+r	java:S106"+Replace this use of System.out by a logger.(›ñ©¿ûÿÿÿÿ8©‹õŸï1J$ecb63ac7-94a5-4ea8-84a6-647f6defd81b
+m	java:S106*"+Replace this use of System.out by a logger.(þ»Þ8ª‹õŸï1J$b6782ca8-1e3c-4f13-8030-ac9f4d0d3d62
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(‹Î¡„ûÿÿÿÿ8Ñ¶¢ð1J$e00e5582-2589-447d-8ee7-090f175f3886
+~	java:S125&"<This block of commented-out lines of code should be removed.(­©ñ8Ñ¶¢ð1J$311b660d-835c-4c38-8a30-fcf4bbb8dc20
+~	java:S125,"<This block of commented-out lines of code should be removed.(Ã¤ë»8«‹õŸï1J$c322017a-b157-4f00-a325-2dabe36295f3
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(¸¡‚¸øÿÿÿÿ8«‹õŸï1J$bc2c9b74-a756-4623-a8ab-f6dbbe828b51
+ƒ	java:S1250"<This block of commented-out lines of code should be removed.( õ‚´ýÿÿÿÿ8¥ûð1J$583a0e6e-8244-47d2-8f77-ecc14869aa3f

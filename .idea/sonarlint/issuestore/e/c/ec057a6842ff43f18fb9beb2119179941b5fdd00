@@ -1,0 +1,28 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ρ¬Ό8Η‡Χο1J$e2528db2-2ef2-4c04-af6b-eeefc395fb1f
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(την8Ι‡Χο1J$c63888b6-5869-444a-a28b-abb0bc7a7246
+x
+java:S1854 "5Remove this useless assignment to local variable "b".(¦‹ÿΣ8ΏΩάο1J$0e861b47-3220-4bc3-920a-fec613173372
+y
+java:S1854"6Remove this useless assignment to local variable "x5".(—ρμο8¬ΆΩο1J$45d408a8-e688-4193-9efc-49bc69d6ec22
+~
+java:S1854"6Remove this useless assignment to local variable "x4".(·™ώ΄ωÿÿÿÿ8Λ‡Χο1J$a23fe226-08b4-42e0-a59f-649a8265a21a
+~
+java:S1854"6Remove this useless assignment to local variable "x3".(¤ Ι‹ύÿÿÿÿ8Λ‡Χο1J$5d37ee2e-fe0a-4e47-8c54-222368aeb042
+y
+java:S1854"6Remove this useless assignment to local variable "x2".(µμϋ›8Λ‡Χο1J$6374d010-a302-4e6c-9c23-bab2b9a1a748
+y
+java:S1854"6Remove this useless assignment to local variable "x1".(υ„8Μ‡Χο1J$4f6aa30f-6c3f-4880-9fad-5a8801051dcb
+j
+java:S1481"'Remove this unused "x1" local variable.(υ„8Ν‡Χο1J$87344b93-3574-407a-b897-de0454e509d7
+j
+java:S1481"'Remove this unused "x2" local variable.(µμϋ›8Ν‡Χο1J$8b18a81d-6141-496d-969d-6450686f026e
+o
+java:S1481"'Remove this unused "x3" local variable.(¤ Ι‹ύÿÿÿÿ8Ξ‡Χο1J$423796aa-dfe0-4f53-b228-e602a0dc29b3
+o
+java:S1481"'Remove this unused "x4" local variable.(·™ώ΄ωÿÿÿÿ8Ξ‡Χο1J$7778edb2-3991-4bab-9716-701eaeb72525
+j
+java:S1481"'Remove this unused "x5" local variable.(—ρμο8°ΆΩο1J$6966333e-14ab-4870-a8f9-7cb35dfe812a
+i
+java:S1481 "&Remove this unused "b" local variable.(¦‹ÿΣ8ΓΩάο1J$289687e9-2b93-4999-8a44-6e92738dbc56

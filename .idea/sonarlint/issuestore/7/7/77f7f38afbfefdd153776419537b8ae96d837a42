@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù€×Ž8ÏÃ„‚ï1J$f308ebe5-f8e9-4f65-b049-1ee7f5b4c809
+r	java:S106"+Replace this use of System.out by a logger.(ªöÁÍþÿÿÿÿ8 —ˆ‚ï1J$17e199f0-13d7-405d-b9da-f0b068d6d5f0
+|
+java:S1128"4Remove this unused import 'day08.enum_.PizzaStatus'.(ÜÈ•Ùÿÿÿÿÿ8ÖÃ„‚ï1J$34ac2b09-15d1-4893-88ed-d201ee43cd56
+}
+java:S1128"5Remove this unused import 'day08.enum_.pra.TeamRole'.(¾×˜˜üÿÿÿÿ8ÖÃ„‚ï1J$d3f1ad6d-8102-4ef3-890b-fadad5a957b8

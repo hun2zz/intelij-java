@@ -1,72 +1,74 @@
 
 ·
-java:S1192`"oDefine a constant instead of duplicating this literal "
-# í•´ë‹¹ íšŒì›ì€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤." 3 times.(Ì£‚œÿÿÿÿÿ8Ñ”™²î1J$0aad5083-978d-42d7-82c2-6c011e4213c9
+java:S1192g"oDefine a constant instead of duplicating this literal "
+# í•´ë‹¹ íšŒì›ì€ ì¡´ì¬í•˜ì§€ ì•ŠìŠµë‹ˆë‹¤." 3 times.(Ì£‚œÿÿÿÿÿ8«ûÀ£ğ1J$4e72979c-2d9e-4532-b05c-f4700e7325b4
 ª
-java:S1488@"bImmediately return this expression instead of assigning it to the temporary variable "menuNumber".(ššöàÿÿÿÿÿ8Ó”™²î1J$20baafb8-c4de-45c1-9c55-55fd4ab90976
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8Ô”™²î1J$a99cbbf7-6f21-48ee-974c-ba312dd178e0
+java:S1488G"bImmediately return this expression instead of assigning it to the temporary variable "menuNumber".(ššöàÿÿÿÿÿ8­ûÀ£ğ1J$e16f117d-e8bb-49e3-a37d-8864e6453816
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8¯ûÀ£ğ1J$9fb4a610-24c8-4e3d-9fc6-a2277726097c
 ™
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(–ò°ºøÿÿÿÿ8Ş”™²î1J$709865b1-e492-4adf-8302-b83100ad5ab8
-r	java:S106"+Replace this use of System.out by a logger.(–ò°ºøÿÿÿÿ8Ş”™²î1J$5ad81b7a-ae5f-4ccc-b8b2-49c3b6a12fb2
-r	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8ß”™²î1J$c21576fb-b3ff-4fb0-b166-44b2eacde8a7
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(–ò°ºøÿÿÿÿ8ÁûÀ£ğ1J$a340f033-1a5a-4075-869b-5703a56ac85e
+r	java:S106"+Replace this use of System.out by a logger.(–ò°ºøÿÿÿÿ8ÁûÀ£ğ1J$b8c153ec-0d1a-49bb-8f87-875e135f9e19
+r	java:S106"+Replace this use of System.out by a logger.(à¿öÑúÿÿÿÿ8ÂûÀ£ğ1J$8a9b1e42-7954-43a2-9b86-7d100cb01c1a
 }
-java:S2209"5Change this instance-reference to a static reference.(ğ“—ãùÿÿÿÿ8İœÂúî1J$e8e5ebe7-ed72-43f9-b915-bc635a598835
-m	java:S106 "+Replace this use of System.out by a logger.(£çàÁ8ß”™²î1J$b73f783c-c64b-4aa0-8a3c-abdf3c7a9f31
+java:S2209"5Change this instance-reference to a static reference.(ğ“—ãùÿÿÿÿ8ÂûÀ£ğ1J$e9fac807-1ce1-49d1-a2fa-152725a08780
+m	java:S106 "+Replace this use of System.out by a logger.(£çàÁ8ÃûÀ£ğ1J$a3c8db9c-e192-4dfd-84d9-ddcb0ad0ed09
 x
-java:S2209#"5Change this instance-reference to a static reference.(Öºˆ´8ßœÂúî1J$87192396-15d3-48fc-ad2f-0c403b6b385f
+java:S2209#"5Change this instance-reference to a static reference.(Öºˆ´8ÃûÀ£ğ1J$73cc7cc6-0130-4b8e-8499-c348cc9bef4d
 x
-java:S2209$"5Change this instance-reference to a static reference.(Õõöã8àœÂúî1J$a7a0d56f-8b6c-4db4-b211-4cb283aac126
+java:S2209$"5Change this instance-reference to a static reference.(Õõöã8ÃûÀ£ğ1J$f6019e0e-0b94-46db-b033-b7e1d5933baa
 }
-java:S2209%"5Change this instance-reference to a static reference.(Ü·‘‰øÿÿÿÿ8àœÂúî1J$a7309b9b-a9a5-43b8-8ce5-9730b04d0a52
+java:S2209%"5Change this instance-reference to a static reference.(Ü·‘‰øÿÿÿÿ8ÃûÀ£ğ1J$081c636a-843c-4175-bf07-4218ff1f53c1
+~	java:S125,"<This block of commented-out lines of code should be removed.(î¯ÔÉ8ÄûÀ£ğ1J$ef8e9f48-d5a1-4810-af55-07e3238d84e9
+x
+java:S2209."5Change this instance-reference to a static reference.(±åÎÜ8ÄûÀ£ğ1J$0640f0e0-d2f7-4dfb-be3a-a7c0cb02f4da
+~	java:S125/"<This block of commented-out lines of code should be removed.(±¯€¤8ÄûÀ£ğ1J$b0b93929-ba8d-4f97-8f41-521d91fd791b
+r	java:S106="+Replace this use of System.out by a logger.(î¯ÿıûÿÿÿÿ8ÅûÀ£ğ1J$63eef4cf-6951-40f6-9350-78d796d4459c
+r	java:S106>"+Replace this use of System.out by a logger.(»§¦·ûÿÿÿÿ8ÅûÀ£ğ1J$56e96e98-60bd-4987-b97a-d180a0c0376c
+m	java:S106?"+Replace this use of System.out by a logger.(æÃ²ó8ÅûÀ£ğ1J$5f91792c-a370-4a92-8ea6-540d01b9fbe9
+m	java:S106@"+Replace this use of System.out by a logger.(¸¸½8ÆûÀ£ğ1J$f5394433-10b9-4e4f-9437-0e13a670bc34
+l	java:S106A"+Replace this use of System.out by a logger.(ÙÚX8ÆûÀ£ğ1J$e2782e5e-e660-4c72-8350-bd370aff41ea
+m	java:S106B"+Replace this use of System.out by a logger.(¢ÜúÌ8ÆûÀ£ğ1J$94414ae5-39b6-4d2b-905c-70131b990249
+r	java:S106C"+Replace this use of System.out by a logger.(îÉ‚Íúÿÿÿÿ8ÆûÀ£ğ1J$f4b93b5e-fbc9-4186-a793-6d17ef69fdb4
+m	java:S106D"+Replace this use of System.out by a logger.(àŞá8ÆûÀ£ğ1J$33849245-cb03-4af2-a557-4d146c130761
+r	java:S106E"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ8ÆûÀ£ğ1J$1b877881-ce8b-4336-9f3c-4718e91cc050
 }
-java:S2209+"5Change this instance-reference to a static reference.(¹ëù¹şÿÿÿÿ8áœÂúî1J$bcd67bdc-56a2-4126-942b-1dd291d3231d
-r	java:S1066"+Replace this use of System.out by a logger.(î¯ÿıûÿÿÿÿ8à”™²î1J$2bd3ed5b-5bf3-4e14-95f9-1b675c7dae66
-r	java:S1067"+Replace this use of System.out by a logger.(»§¦·ûÿÿÿÿ8à”™²î1J$d1bc63a1-be6e-4656-80e5-42461409bc95
-m	java:S1068"+Replace this use of System.out by a logger.(æÃ²ó8à”™²î1J$fb9aaa60-cc2c-49d9-8155-b5aac4366787
-m	java:S1069"+Replace this use of System.out by a logger.(¸¸½8á”™²î1J$a28a4953-ea45-46f6-9df3-8db18fc4e885
-l	java:S106:"+Replace this use of System.out by a logger.(ÙÚX8á”™²î1J$c1dc95f2-bd18-4fc5-ab7d-f27d2b757190
-m	java:S106;"+Replace this use of System.out by a logger.(¢ÜúÌ8á”™²î1J$e61fac33-a37f-4d67-a7d1-0788f50ebdb9
-r	java:S106<"+Replace this use of System.out by a logger.(îÉ‚Íúÿÿÿÿ8á”™²î1J$b943e563-05b1-451c-9245-49d2f0515ac8
-m	java:S106="+Replace this use of System.out by a logger.(àŞá8á”™²î1J$67e73c14-ab8a-4ebd-9e67-f2abe5c842e2
-r	java:S106>"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ8á”™²î1J$7d55dea7-4fc4-431d-bff0-5a68505b897e
+java:S2209G"5Change this instance-reference to a static reference.(ššöàÿÿÿÿÿ8ÆûÀ£ğ1J$ddf93944-a019-49b8-a6a7-efa0faa5e095
 }
-java:S2209@"5Change this instance-reference to a static reference.(ššöàÿÿÿÿÿ8çœÂúî1J$57d527c9-de24-4fea-b557-a0029a46fb07
+java:S2209M"5Change this instance-reference to a static reference.(á®öõÿÿÿÿÿ8ÇûÀ£ğ1J$35d594e0-5302-4e40-ba68-f627a0ad3d33
+r	java:S106O"+Replace this use of System.out by a logger.(’Ñµ£şÿÿÿÿ8ÇûÀ£ğ1J$5844b6df-1b17-4b37-b53e-a5baa88887bd
+l	java:S106S"+Replace this use of System.out by a logger.(ÜÚû48ÇûÀ£ğ1J$e917154a-33b8-428f-a05e-98ff46ce5041
 }
-java:S2209F"5Change this instance-reference to a static reference.(á®öõÿÿÿÿÿ8éœÂúî1J$cc87455f-b428-4184-99b8-5b9a2453f3a2
-r	java:S106H"+Replace this use of System.out by a logger.(’Ñµ£şÿÿÿÿ8á”™²î1J$45cdfded-c808-4057-98e7-2003a7ec7065
-l	java:S106L"+Replace this use of System.out by a logger.(ÜÚû48á”™²î1J$9a412945-99f0-44bc-be1a-178b7e2ffb4b
+java:S2209Z"5Change this instance-reference to a static reference.(Öâ¯Áıÿÿÿÿ8ÇûÀ£ğ1J$ba65e04f-0e1a-449f-be5f-67ec906c0639
+r	java:S106`"+Replace this use of System.out by a logger.(—·¥‡ÿÿÿÿÿ8ÈûÀ£ğ1J$9d681911-fe16-40ba-b02b-2cc3f8fec337
+r	java:S106a"+Replace this use of System.out by a logger.(ÜÏ ˆûÿÿÿÿ8ÈûÀ£ğ1J$9cce06b8-d5f9-435c-ad18-be8c2be7120c
+m	java:S106b"+Replace this use of System.out by a logger.(æ¹ºÀ8ÈûÀ£ğ1J$1cb403c0-c232-4842-bb8b-a1e401409a89
+m	java:S106c"+Replace this use of System.out by a logger.(÷±¡Ğ8ÈûÀ£ğ1J$f164330c-24b1-4a76-9f8b-7a2e93e24e6e
+r	java:S106d"+Replace this use of System.out by a logger.(µû¥¿ıÿÿÿÿ8ÈûÀ£ğ1J$cfee95ee-a489-4667-86af-865170b89e94
+r	java:S106e"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÈûÀ£ğ1J$b21b215a-3bb3-4619-872a-794d6f14a71d
+r	java:S106g"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ÈûÀ£ğ1J$e2588a1f-eec9-4ab0-a606-d2c903fa0b7f
 }
-java:S2209S"5Change this instance-reference to a static reference.(Öâ¯Áıÿÿÿÿ8êœÂúî1J$9c603815-f127-4224-8aa8-205e58dce998
-r	java:S106Y"+Replace this use of System.out by a logger.(—·¥‡ÿÿÿÿÿ8â”™²î1J$f5a8bbc1-1c54-4991-860c-26e867106ab2
-r	java:S106Z"+Replace this use of System.out by a logger.(ÜÏ ˆûÿÿÿÿ8â”™²î1J$97cc92e8-0b38-46f0-814d-709021ef2d0e
-m	java:S106["+Replace this use of System.out by a logger.(æ¹ºÀ8â”™²î1J$6e50573a-bbf9-45b8-bddf-2bc172eab83d
-m	java:S106\"+Replace this use of System.out by a logger.(÷±¡Ğ8â”™²î1J$3327d758-a85e-4d10-8b05-4d8a4352449b
-r	java:S106]"+Replace this use of System.out by a logger.(µû¥¿ıÿÿÿÿ8â”™²î1J$668d3622-3e87-4e28-aa85-40a8d4be82d9
-r	java:S106^"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8â”™²î1J$c412b87f-e844-407c-9b84-c7ca5593039b
-r	java:S106`"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ã”™²î1J$b7826a61-52eb-46df-a68c-4780e04eb1a3
-}
-java:S2209f"5Change this instance-reference to a static reference.(£İ‡Œûÿÿÿÿ8ıœÂúî1J$56d53beb-fd19-4765-9858-80f0754ad9c7
+java:S2209m"5Change this instance-reference to a static reference.(£İ‡Œûÿÿÿÿ8ÉûÀ£ğ1J$8d19f798-cf6f-49c4-bfaf-5ad6f4ecc07e
 ”
-java:S3457p"Q%n should be used in place of \n to produce the platform-specific line separator.(æ¼³ú8ã”™²î1J$7f98b3d8-f9d7-409e-868d-a4e8ac6a548f
-m	java:S106p"+Replace this use of System.out by a logger.(æ¼³ú8ã”™²î1J$fd3168fe-b05e-4225-a61f-6f746f6188ca
+java:S3457w"Q%n should be used in place of \n to produce the platform-specific line separator.(æ¼³ú8ÉûÀ£ğ1J$f32dddb2-fea7-434b-8fd1-a3e53b5e1e2a
+m	java:S106w"+Replace this use of System.out by a logger.(æ¼³ú8ÉûÀ£ğ1J$1c4a84af-1bb1-4543-9605-5d5e14ef3b54
 x
-java:S2209q"5Change this instance-reference to a static reference.(ØºÖÓ8şœÂúî1J$e2b877e3-0b7e-4062-8ec2-c57179cf12d3
-r	java:S106w"+Replace this use of System.out by a logger.(ü†ãüÿÿÿÿ8ã”™²î1J$e4127c35-2e4b-4ba3-8fac-283b72961155
-~	java:S125u"<This block of commented-out lines of code should be removed.(¶õÀÉ8ã”™²î1J$1c10513b-68a4-456f-949b-47608767ee22
-r	java:S106y"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ã”™²î1J$c3d13223-af14-41a2-97c6-89796d022026
-}
-java:S2209~"5Change this instance-reference to a static reference.(„îœ§ûÿÿÿÿ8€Âúî1J$964c14c6-a590-45f3-ba88-fab909180382
-y
-java:S2209†"5Change this instance-reference to a static reference.(¦°é†8Âúî1J$835be078-9622-4192-9ff3-77c6923974b4
-•
-java:S3457‰"Q%n should be used in place of \n to produce the platform-specific line separator.(æõ‡8ä”™²î1J$2b6d25e3-1a54-4e17-971a-8fb3e2cc073a
-n	java:S106‰"+Replace this use of System.out by a logger.(æõ‡8ä”™²î1J$7b333371-63ee-4d53-b93c-cf867be1f6ec
-n	java:S106‹"+Replace this use of System.out by a logger.(ĞöîÌ8ä”™²î1J$a6bc5ca7-2eea-4f75-a7af-0c98d5b97ed9
-s	java:S106"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ä”™²î1J$3cbbbbb1-b69d-466f-a3f6-3bbb1d160848
+java:S2209x"5Change this instance-reference to a static reference.(ØºÖÓ8ÉûÀ£ğ1J$6b18bac1-1faa-47ee-9d68-852583ab057a
+r	java:S106~"+Replace this use of System.out by a logger.(ü†ãüÿÿÿÿ8ÉûÀ£ğ1J$e354d90e-9522-4c25-9f4f-2e7fba0ff1a8
+~	java:S125|"<This block of commented-out lines of code should be removed.(¶õÀÉ8ÊûÀ£ğ1J$c050930f-ecb2-422d-9c8a-07a88f1cafce
+s	java:S106€"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ÊûÀ£ğ1J$ecd7cdf5-8c81-4cd4-a86e-1d6b8e4dec0f
 ~
-java:S2209”"5Change this instance-reference to a static reference.(ù¯ŒĞùÿÿÿÿ8ƒÂúî1J$e385c8d4-16f1-4271-b929-1e3aa0b8b91c
+java:S2209…"5Change this instance-reference to a static reference.(„îœ§ûÿÿÿÿ8ÊûÀ£ğ1J$4167c3d6-6c67-4c6e-96a5-d6bf2c3a2e63
 y
-java:S2209˜"5Change this instance-reference to a static reference.(¦°é†8ƒÂúî1J$ff179ae7-c538-4d97-a04f-342a4e1c153d
-n	java:S106œ"+Replace this use of System.out by a logger.(Ñ±‡8ÏĞê²î1J$54677282-42f9-48ef-acfa-6c6fc3418ecb
-n	java:S106"+Replace this use of System.out by a logger.(ĞöîÌ8ìÉí²î1J$ca8855ea-572d-4649-8376-3f500ff2d049
-n	java:S106¡"+Replace this use of System.out by a logger.(Õ¹ñ…8ÙÉî²î1J$06ec1837-3dcb-4c36-b69c-ac409d2a0516
+java:S2209"5Change this instance-reference to a static reference.(¦°é†8ÊûÀ£ğ1J$c7c18282-b170-4b10-87eb-7098f2931240
+•
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(æõ‡8ËûÀ£ğ1J$5f31af76-4a66-4987-a359-9d3a2e6956f1
+n	java:S106"+Replace this use of System.out by a logger.(æõ‡8ËûÀ£ğ1J$c11709c1-7ed8-4da3-b640-1a695bb7cd8c
+n	java:S106’"+Replace this use of System.out by a logger.(ĞöîÌ8ËûÀ£ğ1J$67461a42-cfea-4ec6-9cdd-f8c47e84e22f
+s	java:S106•"+Replace this use of System.out by a logger.(Ì£‚œÿÿÿÿÿ8ËûÀ£ğ1J$cc0bc6f9-88a0-4e92-89bb-4a809c77c737
+~
+java:S2209›"5Change this instance-reference to a static reference.(ù¯ŒĞùÿÿÿÿ8ËûÀ£ğ1J$f33734d0-b2c2-43a3-9b6c-b7a5aa37d1c5
+y
+java:S2209Ÿ"5Change this instance-reference to a static reference.(¦°é†8ÌûÀ£ğ1J$c2c24b1f-7ed7-433f-9369-061ba12665e2
+n	java:S106£"+Replace this use of System.out by a logger.(Ñ±‡8ÌûÀ£ğ1J$7a696ba4-749b-4bcc-9b6b-fcafbf620b3d
+n	java:S106¥"+Replace this use of System.out by a logger.(ĞöîÌ8ÌûÀ£ğ1J$186b3602-4551-4ed5-9195-57504ee2cea5
+n	java:S106¨"+Replace this use of System.out by a logger.(Õ¹ñ…8ÌûÀ£ğ1J$8cd2cf66-5250-4b5d-bd35-ebaf6f90a777
