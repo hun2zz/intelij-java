@@ -815,12 +815,6 @@ G.idea/sonarlint/issuestore/1/2/1252b8ec93e0799f5c30ad6ed4d26293657c6dc1,d/1/d1
 Å
 Q.idea/sonarlint/securityhotspotstore/c/7/c721f5e998c40624da2ba3ca2e94003bef6d02b1,5/2/52b9867a0c624ed1eb88c6ca3c5a286149dbc08e
 Å
-Q.idea/sonarlint/securityhotspotstore/4/d/4d36bd25a65ce59918da5769ed3d9a59d01b602f,3/2/32b58d21453069354a1e7c4b1dfc14ecb0c7a127
-Å
-Q.idea/sonarlint/securityhotspotstore/0/0/00f5b6e5c798d88e00980871a0ca38e49d096ecb,1/b/1b42e64c4de30397d216283b69995c1376e7e74c
-Å
-Q.idea/sonarlint/securityhotspotstore/a/d/ad8f08d1667d6d42d097a80568002001da7e4d1b,d/9/d91f5e29b5b78466011c5d2027fc5c8bf62c51df
-Å
 Q.idea/sonarlint/securityhotspotstore/a/6/a647513eeb64255b01069fc9653ef21313cfd931,1/e/1eb6ddeb406854031879501eddb4ff5dfadd5274
 Å
 Q.idea/sonarlint/securityhotspotstore/a/a/aa0985f884ec3bb6908f911faef674f3297b124f,2/e/2eacc9954cc5ffedf01fcc8691733e0c3c9fd095
@@ -849,8 +843,6 @@ Q.idea/sonarlint/securityhotspotstore/6/7/67e1ae4ed3f42c7b6bc51b73274e7a4161f1e6
 Å
 Q.idea/sonarlint/securityhotspotstore/1/c/1c41ae485da6907aeee8c605e4798e3253e75916,1/f/1f978c510fba789104ea0a3a2491452a71758af3
 Å
-Q.idea/sonarlint/securityhotspotstore/7/c/7cedefb18b048592c57d9a8757c8350821c030c5,c/d/cde5b65d6bb297cb21368168269de90a4c928d0b
-Å
 Q.idea/sonarlint/securityhotspotstore/e/2/e2ba7f4e6268198367debe3e3520db0815507866,2/3/2327d7c483c8a7124e17daca17721f46fb5e0407
 Å
 Q.idea/sonarlint/securityhotspotstore/4/1/4184ddb317772c12bd156ae6d66c290d2a37bc77,7/b/7bf59f94050f9a183ea673ce0d37e91d2fcce366
@@ -866,8 +858,6 @@ Q.idea/sonarlint/securityhotspotstore/3/b/3b3914da6ea282cae77ef6ed1c27030bdb00b0
 Q.idea/sonarlint/securityhotspotstore/f/c/fce4cc53691a2fe92fae168aa6ea90c0aef8a3c8,5/6/564779548fd4f018d4f1fcd29ed0ea9de9bf70ef
 Å
 Q.idea/sonarlint/securityhotspotstore/7/e/7ebc08b4887f78404c60d5de059d437c8e2de833,5/7/572f19d32c4f5ea484e7a63f7c811d9cf9baf3db
-Å
-Q.idea/sonarlint/securityhotspotstore/c/f/cf38fe2c2a7f7c2bfd6ea5a8af76f444c1e1a7db,d/b/dba91d07359adb8db48a2bf05afa7600b7fb2997
 Å
 Q.idea/sonarlint/securityhotspotstore/c/4/c462603f6e89411a609d314263e6040e5756b74d,5/9/5947f39ca8b2d5f138cdbb4df47aa7cf9f29b29f
 Å
@@ -1020,8 +1010,6 @@ Q
 !src/day09/poly/casting/Child.java,e/3/e32b6fbbe8581f943b8d6740c299828a06ae7338
 P
  src/day09/poly/casting/Main.java,8/d/8dbce2a840e3b694b8cf30178f56089c1ec17065
-Q
-!src/day09/poly/computer/quiz.java,b/6/b62e0c9a5c6b623af4c0cc586f65e70f1954ec52
 V
 &src/day09/poly/computer/quiz/Ïó∞Ïäµ.md,f/7/f7ee8279ed8d7c89841ecf697e368436951e89c3
 ^
@@ -1058,3 +1046,57 @@ F
 src/book/BookList.java,e/0/e0c6538787771cd32f79bd4a99428ed91d147878
 L
 src/book/BookController.java,3/7/3791978a2bb6b3fb806dbcdd399181fd6cd42607
+D
+java-study202404.iml,e/2/e2138619e2cea7b43e456e9ace7caf32b0a0bdf1
+B
+src/day10/abs.java,a/7/a72607a2c5310ed48843e588cd91901499f716b2
+B
+src/day10/Dog.java,d/b/db2122daf0d9e58aedaed97ce41ea7fb5d1441fc
+F
+src/day10/abs/Dog.java,6/b/6b2604f33a787b4cbba8fd862e530fea1e941f20
+F
+src/day10/abs/Cat.java,3/7/37d4a5d4c844ec201dbf902535b699c8be70ac6a
+G
+src/day10/abs/Main.java,4/8/48b8c60267fcf789d336b4c5f25eec44c5fb0c32
+F
+src/day10/abs/Pet.java,6/d/6da01f41bb5f0df9509a67acd41e1e57adba691d
+K
+src/day10/abs/GodlFish.java,4/4/44ddb2971ba3dc896120507192b20a0a63fac953
+K
+src/day10/inter/Galaxy.java,c/3/c388cff232070a8a560b3d4c8174f8a97dc418a2
+K
+src/day10/inter/Iphone.java,a/9/a95cc5be7b9dfb1e41a9142e488b7f2c91c4541a
+O
+src/day10/inter/SmartPhone.java,4/4/44e7b1c6bf6070e26852fa7a5a062bc935c8bc5f
+I
+src/day10/inter/Main.java,3/f/3f53ad68d0d11286a2fdde417338ee6651f84aca
+Q
+!src/day10/inter/animal/Shark.java,0/1/011c972e8696828971994b929d37982a9ba8b260
+R
+"src/day10/inter/animal/Rabbit.java,9/6/96d10d2a1fea6cf5b136e0483cc545b19da38321
+S
+#src/day10/inter/animal/BullDog.java,c/7/c7b9d7cb2325a2bc6ef0ca45703598c5fea2b26e
+O
+src/day10/inter/animal/Pet.java,9/3/9389201cbafd52de28fce95c649e309778be3d3e
+T
+$src/day10/inter/animal/Huntable.java,d/9/d93152caefec762662bcaf25b6a30e092b6ebcd3
+P
+ src/day10/inter/animal/Wild.java,9/5/95b42a136a7747c96500a682bacb62152b4d73b7
+V
+&src/day10/inter/animal/Aggressive.java,8/b/8be2b5c4fe050f44d446ece6a6eb608a7ab756b5
+O
+src/day10/inter/Ïó∞ÏäµÎ¨∏Ï†ú.md,1/0/107af5b7c1e82bfb107de0e0b13ab42a656d3f8b
+I
+src/day10/inter/prac.java,e/f/ef5975236a8fdce0b9ab943dec9280c2dd9258bd
+U
+%src/day10/inter/prac/MediaPlayer.java,c/6/c6a42f744f6fe14844e999f6f017a164b2112feb
+N
+src/day10/inter/prac/Main.java,6/9/69e5094283b34d150b3f09b7be500ecf3f85b3c2
+W
+'src/day10/inter/prac/MediaPlayable.java,f/c/fc620227be4ddbb1edc252776ae3f2eeea7842f5
+U
+%src/day10/inter/prac/VideoPlayer.java,0/3/03bb196dad4e5b2e3433f46ddc3f85c7060e321b
+U
+%src/day10/inter/prac/AudioPlayer.java,e/b/eb551650e1d4d7150517220e8f01d5c981575d4d
+V
+&src/day10/inter/prac/ImageDisplay.java,7/8/78e171813fe8616ba2661e94b96a09c8ce24965c
