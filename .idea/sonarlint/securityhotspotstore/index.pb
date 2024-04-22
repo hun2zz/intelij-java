@@ -1100,3 +1100,11 @@ U
 %src/day10/inter/prac/AudioPlayer.java,e/b/eb551650e1d4d7150517220e8f01d5c981575d4d
 V
 &src/day10/inter/prac/ImageDisplay.java,7/8/78e171813fe8616ba2661e94b96a09c8ce24965c
+N
+src/day10/sort/BubbleSort.java,3/7/374fa38666f1a54c9bf6ffb306139fee7db3c102
+Q
+!src/day10/sort/SelectionSort.java,9/5/95ba3e214fcb6f51910cb94f7ec82aab0d5fe3b7
+Q
+!src/day10/sort/insertionSort.java,d/8/d862592f69120fa43d72c6a54fef582c727d4e0a
+Q
+!src/day10/sort/InsertionSort.java,d/1/d1745d81145f778e3207f99b982166db6840ddd5
