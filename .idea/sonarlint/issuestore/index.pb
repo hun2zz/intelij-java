@@ -2302,3 +2302,11 @@ X
 (src/day11/collection/set/SetExample.java,1/5/15faa7e17ef89f4faf90dfb587f915ffb06978eb
 X
 (src/day11/collection/map/MapExample.java,d/0/d0cc4cc67724cbfbea8a921d247d17690ed68f15
+J
+src/day11/song/Artist.java,0/c/0cc24d479405170f14bf0c586da481c6e6b7cf9b
+T
+$src/day11/song/ArtistRepository.java,e/0/e01dec2a755daaab24c13572b9c8ef1a50820114
+N
+src/day11/song/ArtistView.java,4/c/4c18f0ac91c097ccf12ceb703321cb7fc32613f0
+G
+src/day11/song/Run.java,e/0/e0a3d5a554fb40a9f342192068fde3ecb09ee860
