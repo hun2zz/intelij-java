@@ -2274,3 +2274,27 @@ N
 src/day11/api/lang/Object.java,0/0/00539c7a2f3e017698fcd93c4ce2f4a0787b1e96
 T
 $src/day11/api/lang/ObjectSample.java,0/9/09af9639dff567dcd842771214185ae446ab672d
+U
+%src/day11/api/lang/SystemExample.java,b/0/b000decf33915a603a5a4752c8882727a8662e5f
+I
+src/day11/api/lang/s.java,4/4/443e56fb5a84410e271387fbe04fc12ab3c081b6
+Y
+)src/day11/api/lang/StringBuilderTest.java,6/8/685c01f23de217bc136fabd66557bf0941814fd5
+O
+src/day11/api/lang/Wrapper.java,0/a/0af71fb7a1130b2339eb8831f95ed47ebe06fb95
+P
+ src/day11/api/time/DateTime.java,6/3/6308f0d14a29c45c2ea3eb4fa9601b417368ffd9
+L
+src/day11/generic/Apple.java,7/9/793f8ab890faa74565b7094ff6cf90379d3e3e50
+M
+src/day11/generic/Banana.java,f/4/f442e2df2c426f674fa0666bd4784dcac742812d
+R
+"src/day11/generic/AppleBasket.java,4/2/42f2eb27cce28290bfaa53c5eff26ba4b39c3fc4
+S
+#src/day11/generic/BananaBasket.java,7/1/712ebab3c1726ac34da04498f5e38f89c054ee0e
+K
+src/day11/generic/Main.java,6/4/643b006080f38f0c3f0ec05028c5bc8e319d368d
+M
+src/day11/generic/Basket.java,1/a/1aac54723e5edc886dde6c40dfbb5222804e7db2
+Z
+*src/day11/collection/list/ListExample.java,b/f/bfbc1c7ecbffb3fa993c09ce26f77648f8f352c1
