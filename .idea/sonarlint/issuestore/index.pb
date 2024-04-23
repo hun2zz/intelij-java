@@ -2298,3 +2298,7 @@ M
 src/day11/generic/Basket.java,1/a/1aac54723e5edc886dde6c40dfbb5222804e7db2
 Z
 *src/day11/collection/list/ListExample.java,b/f/bfbc1c7ecbffb3fa993c09ce26f77648f8f352c1
+X
+(src/day11/collection/set/SetExample.java,1/5/15faa7e17ef89f4faf90dfb587f915ffb06978eb
+X
+(src/day11/collection/map/MapExample.java,d/0/d0cc4cc67724cbfbea8a921d247d17690ed68f15
