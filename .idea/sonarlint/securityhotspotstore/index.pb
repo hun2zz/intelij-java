@@ -2332,3 +2332,21 @@ Q
 !src/day12/lambda/FilterApple.java,e/7/e7b002d8008b47ae696c1939baefbc69e05f57b7
 J
 src/day12/lambda/Main.java,e/3/e3b8cf47bc3f36fd8662ad1e5756aef4efb88542
+I
+src/day12/lambda/Foo.java,b/3/b3060727e83ed4a414f7798f02b603fb38ba0e2f
+T
+$src/day12/lambda/ApplePredicate.java,2/9/297abd28a695a62c0caa7dacbd5d3634d7b10f3b
+Z
+*src/day12/lambda/AppleWeightPredicate.java,d/8/d88e91a936f0f0be6fc9e343cbe3d5c8b1b4ca6a
+R
+"src/day12/lambda/MappingApple.java,e/e/eec2f4b7a7a36d6f6729b4228125e3ba09f9287c
+J
+src/day12/stream/Dish.java,9/c/9c009865f868a634e10dabaa9eddf13a263145af
+J
+src/day12/stream/Menu.java,0/c/0c5c22fb03953b26cf947ceb378fe3994d2cf53b
+O
+src/day12/stream/Filtering.java,e/4/e46dd37af2f5872b74b231a8737acde5c35e0bac
+M
+src/day12/stream/Mapping.java,0/0/00eb31377eef82e11463b12c948484935ef22289
+P
+ src/day12/stream/SimpleDish.java,1/4/14a4b361b09f082003f9e0eac48e60c59a804924

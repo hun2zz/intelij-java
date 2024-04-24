@@ -45,4 +45,22 @@ public class FilterApple {
         return filteredApples;
     }
 
+    //필터링 조건을 파라미터화 할 수는 없을까
+    /**
+     * @solution - try 3 : 동작(메서드)을 추상화시켜 파라미터화 한다.
+     * @param basket
+     * @return
+     */
+    public static List<Apple> filterApples (List<Apple> basket, ApplePredicate p) {
+        List<Apple> filteredApples = new ArrayList<>();
+        //반복문과 조건문을 통해 필터링
+        for (Apple apple : basket) {
+            if (p.test(apple)) {
+                filteredApples.add(apple);
+            }
+
+        }
+        return filteredApples;
+    }
+
 }
