@@ -2314,3 +2314,21 @@ O
 src/day12/io/obj/SaveSnack.java,3/b/3bfa20374ab7e9954404c721f011d15519bf662b
 O
 src/day12/io/obj/LoadSnack.java,0/a/0a12a96f77a5b19cd0502f08585592f42192b51e
+O
+src/day12/inner/Calculator.java,e/a/eabcb6244c5daecade05fdad56078d1f6eb4bd36
+I
+src/day12/inner/Main.java,7/c/7c30975b33b50e682f3a5c1f1b58bbeecaace646
+R
+"src/day12/inner/AddCalculator.java,e/7/e7b7c626dfe9015b8c32f1ba4ac256ecc537d10b
+O
+src/day12/inner/Restaurant.java,e/4/e43d4ff98c762065eb89e72a5e65bd9a08ea9e1e
+T
+$src/day12/inner/FrechRestaurant.java,a/0/a08e505e5d900c481e80dca186d2f4e458fddf1f
+K
+src/day12/lambda/Apple.java,8/2/8208a07960af75f693ceaf75622061d936466e1f
+K
+src/day12/lambda/Color.java,3/8/3846deda79cd2ff7c6b49e238b2d99d4c1c08ffc
+Q
+!src/day12/lambda/FilterApple.java,e/7/e7b002d8008b47ae696c1939baefbc69e05f57b7
+J
+src/day12/lambda/Main.java,e/3/e3b8cf47bc3f36fd8662ad1e5756aef4efb88542

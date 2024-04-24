@@ -15,7 +15,8 @@ public class SaveSnack {
                 new Snack("사브레", 1980, 1200, Snack.Taste.SOSO),
                 new Snack("오징어집", 1985, 1800, Snack.Taste.BAD)
         );
-        try (FileOutputStream fos = new FileOutputStream(FileExample.ROOT_PATH + "/hello/snack.save")){
+        try (FileOutputStream fos = new FileOutputStream(FileExample.ROOT_PATH +
+                "/hello/snack.save")){
 
 
             //객체를 통째로 저장할 수 있는 보조 스트림
