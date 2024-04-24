@@ -11,6 +11,7 @@ public class Main {
 
         MemberController mc = new MemberController();
 
+        mc.road();
         mc.run();
 
     }

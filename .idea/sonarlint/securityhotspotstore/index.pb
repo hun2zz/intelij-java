@@ -2017,13 +2017,9 @@ G.idea/sonarlint/issuestore/e/2/e2138619e2cea7b43e456e9ace7caf32b0a0bdf1,a/b/ab
 Å
 Q.idea/sonarlint/securityhotspotstore/e/2/e2138619e2cea7b43e456e9ace7caf32b0a0bdf1,f/4/f482a647be54fd4dc4e74c54229950fb19aabdc2
 Å
-Q.idea/sonarlint/securityhotspotstore/d/b/db2122daf0d9e58aedaed97ce41ea7fb5d1441fc,9/d/9dc5cfff838a852d5f3c7e61c087ba88a5097f93
-Å
 Q.idea/sonarlint/securityhotspotstore/6/b/6b2604f33a787b4cbba8fd862e530fea1e941f20,e/d/ed178e8c807864562805c27387189f31ee80bb12
 Å
 Q.idea/sonarlint/securityhotspotstore/3/7/37d4a5d4c844ec201dbf902535b699c8be70ac6a,e/b/eb264a2213f6145cfd0f9dd253ccb6f0a68398ff
-Å
-Q.idea/sonarlint/securityhotspotstore/a/7/a72607a2c5310ed48843e588cd91901499f716b2,8/3/83f571db183a10aa7e1c743520dcf6c7e93a53a5
 Å
 Q.idea/sonarlint/securityhotspotstore/4/8/48b8c60267fcf789d336b4c5f25eec44c5fb0c32,d/b/db1edabf9a8b6ba8e8be78ae6f94c6161bf7bef9
 Å
@@ -2057,8 +2053,6 @@ Q.idea/sonarlint/securityhotspotstore/1/0/107af5b7c1e82bfb107de0e0b13ab42a656d3f
 w
 G.idea/sonarlint/issuestore/1/0/107af5b7c1e82bfb107de0e0b13ab42a656d3f8b,e/8/e8d93fe8a7aef208635ed14d92fb6661384964c9
 Å
-Q.idea/sonarlint/securityhotspotstore/e/f/ef5975236a8fdce0b9ab943dec9280c2dd9258bd,d/a/da09469128d6b61a697626cd503244bb39798dc5
-Å
 Q.idea/sonarlint/securityhotspotstore/6/9/69e5094283b34d150b3f09b7be500ecf3f85b3c2,4/d/4dc1e425a6b715593d0c1f64315382744b0cb583
 Å
 Q.idea/sonarlint/securityhotspotstore/c/6/c6a42f744f6fe14844e999f6f017a164b2112feb,4/6/4614cd72bb596d5d854a45d1c552ef55c4b087a6
@@ -2080,8 +2074,6 @@ Q.idea/sonarlint/securityhotspotstore/d/1/d1745d81145f778e3207f99b982166db6840dd
 Q.idea/sonarlint/securityhotspotstore/d/8/d862592f69120fa43d72c6a54fef582c727d4e0a,5/4/54321acb5099bb992245be21df8bcc9419db8f11
 Å
 Q.idea/sonarlint/securityhotspotstore/b/4/b40f740d8e4ff9c3d3236aa48e2e9a50b6441a96,6/f/6fc83d9009f0543bb0d63dbe0e2421308048983c
-Å
-Q.idea/sonarlint/securityhotspotstore/1/a/1aef7f80edb0a3cbde71623d4febf379a9c3e1fe,9/5/95a1d821d0bdfd191ce7ed3219e2f9f0215e81b5
 Å
 Q.idea/sonarlint/securityhotspotstore/7/b/7bb927a607c8d9dd17f281eb4143ef60e510581b,e/e/eec1aed71313c1e801efba31ab32c030862b0573
 w
@@ -2270,14 +2262,10 @@ Q.idea/sonarlint/securityhotspotstore/c/f/cf3e37f56f543a4b9ccf7c9307624ce9f4faff
 Q.idea/sonarlint/securityhotspotstore/f/c/fc51aad2f1ebe72ffedf49fa3dfea24b513ff6fe,9/2/92f6b8ed4f7b37c3c344c4307f2fbb1f9b83c15c
 Å
 Q.idea/sonarlint/securityhotspotstore/f/1/f10dab2fb9ecb9a5d282377f19008a31205be351,0/0/00541e8726b1f6158444fe2db9bb852ada5c6037
-N
-src/day11/api/lang/Object.java,0/0/00539c7a2f3e017698fcd93c4ce2f4a0787b1e96
 T
 $src/day11/api/lang/ObjectSample.java,0/9/09af9639dff567dcd842771214185ae446ab672d
 U
 %src/day11/api/lang/SystemExample.java,b/0/b000decf33915a603a5a4752c8882727a8662e5f
-I
-src/day11/api/lang/s.java,4/4/443e56fb5a84410e271387fbe04fc12ab3c081b6
 Y
 )src/day11/api/lang/StringBuilderTest.java,6/8/685c01f23de217bc136fabd66557bf0941814fd5
 O
@@ -2310,3 +2298,13 @@ N
 src/day11/song/ArtistView.java,4/c/4c18f0ac91c097ccf12ceb703321cb7fc32613f0
 G
 src/day11/song/Run.java,e/0/e0a3d5a554fb40a9f342192068fde3ecb09ee860
+M
+src/day12/io/FileExample.java,3/2/32771a2a98be0a80b9d9cad212c7e623578752a4
+^
+.src/day12/io/bytestream/FileOutputExample.java,d/c/dcf7ba3bc5060cd4a663ded75aa52b8cecec9d74
+]
+-src/day12/io/bytestream/FileInputExample.java,8/e/8e907c0a1b9ec06935ba1814bbf6af5590ed64eb
+^
+.src/day12/io/textstream/FileWriterExample.java,5/f/5f2a57984613cafabba32d5e1187165076e65787
+^
+.src/day12/io/textstream/FileReaderExample.java,1/c/1c42b798ee7677172791a67bfa40cd089bb55ad6

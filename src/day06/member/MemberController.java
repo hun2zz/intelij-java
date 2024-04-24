@@ -7,6 +7,7 @@ public class MemberController {
     MemberView mv;
     SimpleInput si;
 
+
     MemberController() {
         this.mv = new MemberView();
         this.si = new SimpleInput();

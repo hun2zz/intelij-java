@@ -1,66 +1,66 @@
 
 ª
-java:S14887"bImmediately return this expression instead of assigning it to the temporary variable "menuNumber".(ššöàÿÿÿÿÿ8Ä©«ï1J$d5970675-dfd2-4302-937d-27c1ce6142db
+java:S14887"bImmediately return this expression instead of assigning it to the temporary variable "menuNumber".(ššöàÿÿÿÿÿ8Ä©«ï1J$1d2d14c2-2571-4f16-9511-6d747ec79e4f
 
-java:S1450"URemove the "gender" field and declare it as a local variable in the relevant methods.(ŠÔŞ»ıÿÿÿÿ8 Ä©«ï1J$0f6fbc3d-a7ed-4c18-853f-96f20b08a30d
-m	java:S106"+Replace this use of System.out by a logger.(ŠÖ¼8£Ä©«ï1J$81a39eb2-6e85-4014-b454-ead3f88f6d4d
+java:S1450"URemove the "gender" field and declare it as a local variable in the relevant methods.(ŠÔŞ»ıÿÿÿÿ8 Ä©«ï1J$27c3ddb9-e555-4def-92fe-d69fb11dd7e5
+m	java:S106"+Replace this use of System.out by a logger.(ŠÖ¼8£Ä©«ï1J$3a130649-416b-482c-9575-a455793917dc
 x
-java:S2209"5Change this instance-reference to a static reference.(œÛ•Š8¤Ä©«ï1J$f65a064c-2916-4d1d-947c-98bec0f2e23b
+java:S2209"5Change this instance-reference to a static reference.(œÛ•Š8¤Ä©«ï1J$27a7e2c0-b84d-4ea7-900f-53c23f31e9c9
 }
-java:S2209 "5Change this instance-reference to a static reference.(Ü¡’äûÿÿÿÿ8¤Ä©«ï1J$340ea002-d2a0-41ce-9c1c-2b0365f3fc77
-~	java:S125""<This block of commented-out lines of code should be removed.(š‚ôÎ8¥Ä©«ï1J$84b03b3c-d591-4f97-9f40-f9c01496cb3c
+java:S2209 "5Change this instance-reference to a static reference.(Ü¡’äûÿÿÿÿ8¤Ä©«ï1J$efc234f7-1095-49f9-bec9-007480d614a0
+~	java:S125""<This block of commented-out lines of code should be removed.(š‚ôÎ8¥Ä©«ï1J$76bdc8b1-61cf-49e2-ac05-d1bc6bb14790
 }
-java:S2209#"5Change this instance-reference to a static reference.(ÂµåĞüÿÿÿÿ8¥Ä©«ï1J$a7d008f5-cad0-47ae-a695-8a17b7e2bffc
-m	java:S106)"+Replace this use of System.out by a logger.(Í½ˆ8¥Ä©«ï1J$71734b10-8760-4003-a244-45a241272e11
-r	java:S106*"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ8¥Ä©«ï1J$895c3874-d795-4bd4-81f0-8e90095f6ae9
-r	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¥Ä©«ï1J$9d97aeb9-85e6-43fd-acfb-c4bb1d0cfef6
-r	java:S1060"+Replace this use of System.out by a logger.(•¸óıÿÿÿÿ8¦Ä©«ï1J$5a58d36f-c6a2-436d-9d3d-92933545f7d9
-r	java:S1061"+Replace this use of System.out by a logger.(¨ÒùÛùÿÿÿÿ8¦Ä©«ï1J$3f5ac46d-62b8-42c3-ac92-8cbda58f8eea
-r	java:S1062"+Replace this use of System.out by a logger.(ÈĞÇşùÿÿÿÿ8¦Ä©«ï1J$3e4f022a-b240-4c55-98b2-b1abca17be61
-m	java:S1063"+Replace this use of System.out by a logger.(Á•”«8¦Ä©«ï1J$37127b99-5623-49d9-9f27-18fafb88a8dd
-m	java:S1064"+Replace this use of System.out by a logger.(ªòêŞ8¦Ä©«ï1J$5c7226c1-76ed-43a0-b67b-97c3059f0cc7
-m	java:S1065"+Replace this use of System.out by a logger.(È”òÀ8¦Ä©«ï1J$cba76d37-db83-4dc3-83ba-9c9ccfeabb4c
-m	java:S1066"+Replace this use of System.out by a logger.(İóû×8¦Ä©«ï1J$0ca148a2-260b-4e80-8c24-ffd7137cf904
+java:S2209#"5Change this instance-reference to a static reference.(ÂµåĞüÿÿÿÿ8¥Ä©«ï1J$dcb99c8e-cf01-4626-a87f-9a0f9cd0aab2
+m	java:S106)"+Replace this use of System.out by a logger.(Í½ˆ8¥Ä©«ï1J$5f70037e-a9dd-49b6-aef5-f80ed25d30a6
+r	java:S106*"+Replace this use of System.out by a logger.(ıØ±üÿÿÿÿ8¥Ä©«ï1J$64fb2ff2-7dcc-4912-87ce-dd78f1d32b05
+r	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¥Ä©«ï1J$065addd8-731d-40b7-914b-3c04f5dfd0c6
+r	java:S1060"+Replace this use of System.out by a logger.(•¸óıÿÿÿÿ8¦Ä©«ï1J$c8760baf-6c69-4a02-8d0c-58d36f23262a
+r	java:S1061"+Replace this use of System.out by a logger.(¨ÒùÛùÿÿÿÿ8¦Ä©«ï1J$6d19213f-aca2-47ff-94d4-f12915ea85fb
+r	java:S1062"+Replace this use of System.out by a logger.(ÈĞÇşùÿÿÿÿ8¦Ä©«ï1J$c755b34c-c6fb-4577-b28a-1700eef6139f
+m	java:S1063"+Replace this use of System.out by a logger.(Á•”«8¦Ä©«ï1J$25b6d6f7-0aa8-40d8-919f-b03078735a3f
+m	java:S1064"+Replace this use of System.out by a logger.(ªòêŞ8¦Ä©«ï1J$d2712eef-d77e-408d-afb0-6a515125c61a
+m	java:S1065"+Replace this use of System.out by a logger.(È”òÀ8¦Ä©«ï1J$6ac14130-1efe-45d8-b766-91a353a0ed21
+m	java:S1066"+Replace this use of System.out by a logger.(İóû×8¦Ä©«ï1J$68aac2bf-ffbb-459d-85ed-d78d6c101b71
 }
-java:S22097"5Change this instance-reference to a static reference.(ššöàÿÿÿÿÿ8¦Ä©«ï1J$3abc99fd-9503-4c10-a802-6aafdcb4ea96
-m	java:S106<"+Replace this use of System.out by a logger.(Ğ·«ä8§Ä©«ï1J$56369b84-d269-44f8-bde3-05fea66e3fe0
-m	java:S106="+Replace this use of System.out by a logger.(õı”Ş8§Ä©«ï1J$a006235a-be7b-4e27-b1b6-a163b130b7f2
-m	java:S106>"+Replace this use of System.out by a logger.(Ÿ­Ï8§Ä©«ï1J$45b9e521-551e-4cbb-b0a9-6210b65b63e4
-m	java:S106?"+Replace this use of System.out by a logger.(á®‘8§Ä©«ï1J$1a530536-253b-4674-ae98-9964b5ef8574
+java:S22097"5Change this instance-reference to a static reference.(ššöàÿÿÿÿÿ8¦Ä©«ï1J$b2e4e45f-f8a9-4a85-88c1-c6668070ca74
+m	java:S106<"+Replace this use of System.out by a logger.(Ğ·«ä8§Ä©«ï1J$4ad99741-1659-47e6-8163-15da9e580521
+m	java:S106="+Replace this use of System.out by a logger.(õı”Ş8§Ä©«ï1J$571683e0-0e9d-4c2a-982f-a76b7055a3bf
+m	java:S106>"+Replace this use of System.out by a logger.(Ÿ­Ï8§Ä©«ï1J$877caa37-9198-4a94-8e76-bdadd4657b6b
+m	java:S106?"+Replace this use of System.out by a logger.(á®‘8§Ä©«ï1J$dadc91d6-a452-49d3-a406-cefc327b816a
 ™
-java:S3457C"Q%n should be used in place of \n to produce the platform-specific line separator.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$4dcb4de3-c03c-4812-81c7-24a1391ab588
+java:S3457C"Q%n should be used in place of \n to produce the platform-specific line separator.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$86d3aac6-5546-4ad5-80b7-97a6c65c76fa
 m
-java:S3457C"%String contains no format specifiers.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$445c6f09-b959-4b5a-8d82-5ad5702569ea
-r	java:S106C"+Replace this use of System.out by a logger.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$a1f168e0-bf74-43d8-900e-c80157cffbae
-m	java:S106E"+Replace this use of System.out by a logger.(˜á½Š8¨Ä©«ï1J$be8cfdd6-39c3-4bfb-9624-2c0d28fbb5d3
+java:S3457C"%String contains no format specifiers.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$e4274ac4-7ced-407b-9246-eb79a4df61e1
+r	java:S106C"+Replace this use of System.out by a logger.(Ï”ëüÿÿÿÿ8¨Ä©«ï1J$23f40a2d-1e93-43f7-9275-713c1b36dae3
+m	java:S106E"+Replace this use of System.out by a logger.(˜á½Š8¨Ä©«ï1J$dce4977e-351c-427b-b876-10ae17e945e6
 x
-java:S2209K"5Change this instance-reference to a static reference.(ªæ‚Ô8¨Ä©«ï1J$7e356cfc-0b59-4a16-ba7c-c85c4492a298
-m	java:S106P"+Replace this use of System.out by a logger.(˜á½Š8©Ä©«ï1J$a37f8200-1472-423e-93e5-047b1b412498
-r	java:S106T"+Replace this use of System.out by a logger.(İÚá¬üÿÿÿÿ8©Ä©«ï1J$c362b988-9ea8-47f2-96d5-191a86d7035a
+java:S2209K"5Change this instance-reference to a static reference.(ªæ‚Ô8¨Ä©«ï1J$696f6c78-04a5-484b-a3d6-4964cdb61f03
+m	java:S106P"+Replace this use of System.out by a logger.(˜á½Š8©Ä©«ï1J$f990d208-6634-489c-bcf5-bd8b158b4630
+r	java:S106T"+Replace this use of System.out by a logger.(İÚá¬üÿÿÿÿ8©Ä©«ï1J$46bdc2cb-aab3-4f1f-915f-8136b153064d
 ”
-java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(¼ÔÖ¡8ªÄ©«ï1J$0bd95d9b-32d4-4ab3-b886-9ab6244ffe96
-m	java:S106["+Replace this use of System.out by a logger.(¼ÔÖ¡8ªÄ©«ï1J$90cc301b-1c89-4fe9-9a4e-7668f9e65c1a
+java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(¼ÔÖ¡8ªÄ©«ï1J$5293315a-b2c6-460e-a109-c4a058a132ec
+m	java:S106["+Replace this use of System.out by a logger.(¼ÔÖ¡8ªÄ©«ï1J$7b2caf96-4825-40f6-8f55-2a15e6246a8c
 x
-java:S2209^"5Change this instance-reference to a static reference.(ŠüÕ¾8ªÄ©«ï1J$8cf1b68c-a225-4338-aa00-6fdd06e88a19
+java:S2209^"5Change this instance-reference to a static reference.(ŠüÕ¾8ªÄ©«ï1J$02fc0ea0-6155-42a9-9b60-755db92a047c
 “
-java:S6201a"PReplace this instanceof check and cast with 'instanceof CartoonBook cartoonbook'(‡äÖ8ªÄ©«ï1J$76f431c1-1d85-457d-9d76-fa47d26cc3a6
-r	java:S106c"+Replace this use of System.out by a logger.(¹Œ‰×ùÿÿÿÿ8«Ä©«ï1J$b7352c3d-c579-4bdc-b683-12a4ccf4ccec
-r	java:S106e"+Replace this use of System.out by a logger.(½»´äûÿÿÿÿ8«Ä©«ï1J$9a0d4cae-ad59-4cb5-90f5-068cf493af8b
+java:S6201a"PReplace this instanceof check and cast with 'instanceof CartoonBook cartoonbook'(‡äÖ8ªÄ©«ï1J$df58e9e6-69c4-4a53-9a7b-1d0135d9a682
+r	java:S106c"+Replace this use of System.out by a logger.(¹Œ‰×ùÿÿÿÿ8«Ä©«ï1J$35c49ade-5b89-4305-884d-9c066f6c3bfc
+r	java:S106e"+Replace this use of System.out by a logger.(½»´äûÿÿÿÿ8«Ä©«ï1J$2ea0408c-ecef-4c45-a753-8adb515ea5de
 Œ
-java:S6201h"JReplace this instanceof check and cast with 'instanceof CookBook cookbook'(ôˆŸU8«Ä©«ï1J$ddaa3019-7591-4d11-8df8-783aca0379f4
-r	java:S106j"+Replace this use of System.out by a logger.(¬Ù‘°øÿÿÿÿ8«Ä©«ï1J$73a6ad45-a450-4594-9258-4eaf437c9266
-m	java:S106m"+Replace this use of System.out by a logger.(ääş²8«Ä©«ï1J$78b067e2-86da-4ea7-a882-cced40574d65
+java:S6201h"JReplace this instanceof check and cast with 'instanceof CookBook cookbook'(ôˆŸU8«Ä©«ï1J$9c849f68-09a6-4f2f-91e5-4c1dc5f8e954
+r	java:S106j"+Replace this use of System.out by a logger.(¬Ù‘°øÿÿÿÿ8«Ä©«ï1J$5e164d16-dced-45e9-af29-afae36525a0e
+m	java:S106m"+Replace this use of System.out by a logger.(ääş²8«Ä©«ï1J$c2917657-f86b-4ac8-a8cf-24390798a922
 x
-java:S2209x"5Change this instance-reference to a static reference.(È°„÷8¬Ä©«ï1J$0e754dc8-da67-4830-a8cd-0cb07213a70b
-m	java:S106}"+Replace this use of System.out by a logger.(˜á½Š8¬Ä©«ï1J$c3db5f44-7e57-45a5-af0d-f69c1facab7b
-s	java:S106"+Replace this use of System.out by a logger.(İÚá¬üÿÿÿÿ8¬Ä©«ï1J$1058cfcf-1438-477a-a51e-aee45cc6b002
+java:S2209x"5Change this instance-reference to a static reference.(È°„÷8¬Ä©«ï1J$a88dd337-4d19-47ee-b0dd-c460c70a4ac5
+m	java:S106}"+Replace this use of System.out by a logger.(˜á½Š8¬Ä©«ï1J$df7dc058-8732-45f6-ada4-2156258d3445
+s	java:S106"+Replace this use of System.out by a logger.(İÚá¬üÿÿÿÿ8¬Ä©«ï1J$0f4e139e-6573-4c1a-acbe-9af5e008da93
 ~
-java:S2209…"5Change this instance-reference to a static reference.(á®öõÿÿÿÿÿ8Æ½­«ï1J$de2a0187-29af-4ca1-a72a-a6a53293cb86
-s	java:S106‡"+Replace this use of System.out by a logger.(’Ñµ£şÿÿÿÿ8Æ½­«ï1J$f7e85e56-c37c-4bf1-ab40-1ba389e169c5
-m	java:S106‹"+Replace this use of System.out by a logger.(ÜÚû48Ç½­«ï1J$a6345579-c89b-4a87-aa2e-c6c4d35158cc
+java:S2209…"5Change this instance-reference to a static reference.(á®öõÿÿÿÿÿ8Æ½­«ï1J$bee5270a-4919-491f-9e0b-563b130b06b7
+s	java:S106‡"+Replace this use of System.out by a logger.(’Ñµ£şÿÿÿÿ8Æ½­«ï1J$ef569f34-ffb5-4945-9573-5c420a3ac768
+m	java:S106‹"+Replace this use of System.out by a logger.(ÜÚû48Ç½­«ï1J$1473826c-2f36-47a9-a11d-04d153dd6a78
 s
-java:S1128"0Remove this unused import 'day06.member.Member'.(œğ’8­Ä©«ï1J$4ece8af5-6f84-434c-9be3-7d1688c96931
+java:S1128"0Remove this unused import 'day06.member.Member'.(œğ’8­Ä©«ï1J$40f6edb4-3bf0-400d-ae23-561e5554cbfc
 u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8­Ä©«ï1J$e83f1aaa-d53a-428e-b963-50298beb553c
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8­Ä©«ï1J$6afc8eee-56a0-4d50-bb8d-ab969b495a06
 r
-java:S1068"*Remove this unused "gender" private field.(ŠÔŞ»ıÿÿÿÿ8­Ä©«ï1J$7151c5fe-3877-4370-8db9-675a70cbd6a6
+java:S1068"*Remove this unused "gender" private field.(ŠÔŞ»ıÿÿÿÿ8­Ä©«ï1J$12eba33a-b957-4d28-96c2-479af971a2e0
