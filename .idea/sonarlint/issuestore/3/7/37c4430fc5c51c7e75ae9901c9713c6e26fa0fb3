@@ -1,6 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8›‡Í¥î1J$c209b6e1-018d-4133-95b6-10afb086f7f3
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÙ´€ÿÿÿÿÿ8›‡Í¥î1J$5b57b1dd-01a1-4523-a5c4-07053d956d0d
 p
-java:S1128"-Remove this unused import 'util.SimpleInput'.(‘ŒÒ8øÇâ¦î1J$f22fb1cf-7253-47f0-895b-a863b29acab1
+java:S1128"-Remove this unused import 'util.SimpleInput'.(‘ŒÒ8˜íÚîğ1J$c341c5c0-fc8c-46a0-801a-6ed55641dc2a
 v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8øÇâ¦î1J$15ed211c-6c54-4ea4-a709-3318807fa2ef
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8˜íÚîğ1J$fdc9e209-82f1-42c3-9197-b56b7b6fe7e4

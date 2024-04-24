@@ -1,6 +1,5 @@
 package day06.member;
 
-import com.sun.jdi.event.ExceptionEvent;
 import day12.io.FileExample;
 
 import java.io.BufferedReader;
@@ -13,9 +12,14 @@ import java.util.List;
 public class MemberRepository {
 
     // 필드
+    // const members = [{}, {}, {}];
 //    static Member[] members; // 현재 관리되는 회원 배열
 //    static Member[] restoreList; // 삭제된 회원들이 모일 배열
 
+    // const members = {
+    //    mArr: [{}, {}, {}],
+    //    push: function() {}
+    // };
     MemberList members;
     MemberList restoreList;
 
@@ -50,16 +54,59 @@ public class MemberRepository {
 //        }
 //        temp[temp.length - 1] = newMember;
 //        members = temp;
+
         members.push(newMember);
 
-        //회원정보 텍스트파일에 저장하기
-        try(FileWriter fw=  new FileWriter(FileExample.ROOT_PATH + "/hello/my-member.txt")) {
-            String newMemberInfo = String.format("%s,$s,$s,%s,%s\n"
-            , newMember.email, newMember.memberName, newMember.password, newMember.gender, newMember.age);
-        fw.write(newMemberInfo);
+        // 회원정보 텍스트파일에 저장하기
+        try (FileWriter fw = new FileWriter(FileExample.ROOT_PATH + "/hello/member.txt", true)) {
+
+            String newMemberInfo = String.format("%s,%s,%s,%s,%d\n"
+                    , newMember.email, newMember.memberName
+                    , newMember.password, newMember.gender, newMember.age);
+
+            fw.write(newMemberInfo);
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+    }
+
+    // 회원 정보 세이브파일 불러오기
+    public void loadFile() {
+        String targetPath = FileExample.ROOT_PATH + "/hello/member.txt";
+
+        try (FileReader fr = new FileReader(targetPath)) {
+
+            // 보조 스트림 활용
+            // 텍스트를 라인단위로 읽어들이는 보조스트림
+            BufferedReader br = new BufferedReader(fr);
+
+            while (true) {
+                String s = br.readLine();
+//                System.out.println("s = " + s);
+
+                if (s == null) break;
+
+                String[] split = s.split(",");
+//                System.out.println(Arrays.toString(split));
+
+                // 읽어들인 회원정보로 회원 객체 생성
+                Member member = new Member(
+                        split[0],
+                        split[2],
+                        split[1],
+                        split[3],
+                        Integer.parseInt(split[4])
+                );
+
+                this.members.push(member);
+            }
+
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
     /**
@@ -117,34 +164,23 @@ public class MemberRepository {
 //            temp[i] = members[i];
 //        }
 //        members = temp;
-        Member restoreValue = members.remove(index);
-        restoreList.push(restoreValue);
+
+        // members배열에서 삭제 후 삭제된 member를 리턴받음
+        Member removed = members.remove(index);
+        restoreList.push(removed);
+//
+//        System.out.println(Arrays.toString(members.mArr));
+//        System.out.println(Arrays.toString(restoreList.mArr));
     }
 
-    public void memberReader(){
+    public Member findRestoreMemberByEmail(String inputEmail) {
+        return restoreList.get(inputEmail);
+    }
 
-        String targetPath = FileExample.ROOT_PATH + "/hello/member.txt";
+    public void restore(String inputEmail) {
 
-        try (FileReader fr = new FileReader(targetPath)){
-            //보조 스트림 활용
-            //텍스트를 라인단위로 읽어들이는 보조스트림
-            BufferedReader br = new BufferedReader(fr);
-            while (true) {
-                String s = br.readLine();
-//                System.out.println("s = " + s);
-                if ( s == null) break;
-
-                String[] split = s.split(",");
-//                System.out.println(Arrays.toString(split
-//                ));
-                //읽어 들인 회원정보로 회원 객체 생성
-                Member member = new Member(split[0], split[2], split[1], split[3], Integer.parseInt(split[4]));
-
-
-                this.members.push(member);
-            }
-        } catch (Exception e){
-            e.printStackTrace();
-        }
+        int index = restoreList.findIndex(inputEmail);
+        Member removed = restoreList.remove(index);
+        members.push(removed);
     }
 }

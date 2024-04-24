@@ -34,20 +34,22 @@ public class MemberView {
 
         String name = si.input("- 이름: ");
         String password = si.input("- 패스워드: ");
-        String gender = si.input("- 성별: ");
-        if(gender.equals("남성")){
+        String gender = si.input("- 성별(M/F): ");
+        if (gender.equals("M")) {
             gender = MemberConstants.MALE;
-        } else if (gender.equals("여성")) {
-            gender= MemberConstants.FEMALE;
+        } else if (gender.equals("F")) {
+            gender = MemberConstants.FEMALE;
         }
+
         int age = 0;
-//        while (true) {
-//            try {
+        while (true) {
+            try {
                 age = Integer.parseInt(si.input("- 나이: "));
-//                break;
-//            } catch (NumberFormatException e) {
-//                System.out.println("나이는 숫자로 입력해주세요");
-//        }
+                break;
+            } catch (Exception e) {
+                System.out.println("나이는 숫자로 입력하세요!");
+            }
+        }
 
         // 입력데이터를 기반으로 한 명의 회원 객체를 생성
         Member newMember = new Member(email, password, name, gender, age);
@@ -64,7 +66,7 @@ public class MemberView {
         System.out.println("* 3. 전체회원 정보 조회하기");
         System.out.println("* 4. 회원 정보 수정하기");
         System.out.println("* 5. 회원 탈퇴하기");
-        System.out.println("* 6. 회원 탈퇴 복구하기");
+        System.out.println("* 6. 회원 복구하기");
         System.out.println("* 7. 프로그램 종료");
         System.out.println("=============================");
 
@@ -120,8 +122,8 @@ public class MemberView {
             String newPassword = si.input("# 새 비밀번호: ");
 
             // 회원정보 실제로 수정
-            foundMember.password = newPassword;
-//            foundMember.changePassword(newPassword);
+//            foundMember.password = newPassword;
+            foundMember.changePassword(newPassword);
 
             System.out.println("# 비밀번호 변경이 완료되었습니다.");
         } else {
@@ -151,22 +153,31 @@ public class MemberView {
 
     }
 
-    public void deleteValueinsert(){
-        String inputList = si.input("# 복구할 이메일을 입력: ");
-        int foundIndex = mr.restoreList.findIndex(inputList);
-        Member foundRestore = mr.restoreList.get(inputList);
-        if (foundIndex != -1){
+    // 회원 복구에 관련한 입출력 처리
+    public void restoreMember() {
+
+
+        String inputEmail = si.input("# 복구하실 회원의 이메일을 입력하세요.\n>> ");
+
+        // 이메일이 일치하는 회원이 복구리스트에 있는지 조회
+        Member foundMember = mr.findRestoreMemberByEmail(inputEmail);
+
+        if (foundMember != null) {
+            // 패스워드 검사
             String inputPw = si.input("# 비밀번호를 입력: ");
-            if (inputPw.equals(foundRestore.password)) {
-                mr.members.push(foundRestore);
-                mr.restoreList.remove(foundRestore);
-                System.out.println("복구 완료~~");
+            if (inputPw.equals(foundMember.password)) {
+                mr.restore(inputEmail);
+                System.out.printf("# %s님의 회원정보가 복구되었습니다.\n", foundMember.memberName);
             } else {
-                System.out.println("\n# 비밀번호가 일치하지 않습니다. 탈퇴를 취소합니다.");
+                System.out.println("\n# 비밀번호가 일치하지 않습니다. 복구를 취소합니다.");
             }
         } else {
-            System.out.println("없는데 ??");
+            System.out.println("\n# 해당 회원은 복구대상이 아닙니다.");
         }
 
+    }
+
+    public void load() {
+        mr.loadFile();
     }
 }

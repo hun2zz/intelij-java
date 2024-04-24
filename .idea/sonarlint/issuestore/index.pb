@@ -2308,3 +2308,9 @@ M
 .src/day12/io/textstream/FileWriterExample.java,5/f/5f2a57984613cafabba32d5e1187165076e65787
 ^
 .src/day12/io/textstream/FileReaderExample.java,1/c/1c42b798ee7677172791a67bfa40cd089bb55ad6
+K
+src/day12/io/obj/Snack.java,8/0/80c87ac78dffef1562025572e6b2239e93ab6cdc
+O
+src/day12/io/obj/SaveSnack.java,3/b/3bfa20374ab7e9954404c721f011d15519bf662b
+O
+src/day12/io/obj/LoadSnack.java,0/a/0a12a96f77a5b19cd0502f08585592f42192b51e
