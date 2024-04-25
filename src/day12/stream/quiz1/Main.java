@@ -174,28 +174,32 @@ public class Main {
                     2022: []
                 }
          */
+//
+//        Map<Integer, List<Transaction>> groupByYearMap = new HashMap<>();
+//
+//        List<Transaction> trs2021 = transactions.stream()
+//                .filter(trs -> trs.getYear() == 2021)
+//                .collect(toList());
+//
+//        List<Transaction> trs2022 = transactions.stream()
+//                .filter(trs -> trs.getYear() == 2022)
+//                .collect(toList());
+//
+//        groupByYearMap.put(2021, trs2021);
+//        groupByYearMap.put(2022, trs2022);
+//
+//
+//        System.out.println("=====================");
+//        for (Integer year : groupByYearMap.keySet()) {
+//            System.out.println("year = " + year);
+//            for (Transaction transaction : groupByYearMap.get(year)) {
+//                System.out.println(transaction);
+//            }
+//        }
 
-        Map<Integer, List<Transaction>> groupByYearMap = new HashMap<>();
-
-        List<Transaction> trs2021 = transactions.stream()
-                .filter(trs -> trs.getYear() == 2021)
-                .collect(toList());
-
-        List<Transaction> trs2022 = transactions.stream()
-                .filter(trs -> trs.getYear() == 2022)
-                .collect(toList());
-
-        groupByYearMap.put(2021, trs2021);
-        groupByYearMap.put(2022, trs2022);
-
-
-        System.out.println("=====================");
-        for (Integer year : groupByYearMap.keySet()) {
-            System.out.println("year = " + year);
-            for (Transaction transaction : groupByYearMap.get(year)) {
-                System.out.println(transaction);
-            }
-        }
+        Map<Integer, List<Transaction>> cambridge = transactions.stream().filter(trs -> trs.getTrader().getCity().equals("Cambridge"))
+                .collect(groupingBy(trs -> trs.getYear()));
+        System.out.println("cambridge = " + cambridge);
 
         // 연습 12. 모든 거래 중 가장 큰 거래액과 가장 작은 거래액의 차이를 계산하시오.
         // 출력 값 : 700
