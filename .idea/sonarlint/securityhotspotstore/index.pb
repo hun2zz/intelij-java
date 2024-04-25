@@ -2350,3 +2350,31 @@ M
 src/day12/stream/Mapping.java,0/0/00eb31377eef82e11463b12c948484935ef22289
 P
  src/day12/stream/SimpleDish.java,1/4/14a4b361b09f082003f9e0eac48e60c59a804924
+P
+ src/day12/stream/DishDetail.java,3/3/33a29c6639f4ef13b4f040c6f1359be43ae55e24
+M
+src/day12/stream/Finding.java,f/a/fa135b89380478c48530025158aba7aabc88cfb6
+X
+(src/day12/stream/comparator/Student.java,8/4/84515b239bdb6eb9f7a8abd4af244a5662bdba42
+R
+"src/day12/stream/comparator/M.java,2/5/256c5087d1e7315225042f4fd20a88f331e5d96b
+U
+%src/day12/stream/comparator/Main.java,5/d/5d23d977d30dfcdaef00d86860915a6cf0600935
+M
+src/day12/stream/Sorting.java,3/7/37f8f120782fe257d32d3c4872d09c8a6419220e
+P
+ src/day12/stream/람다정리.md,b/c/bca6e2b2b82e34d3783fcfcbb3f7ac83d4a546ca
+P
+ src/day12/stream/quiz1/Main.java,5/9/592a031aeb3852dbd7d055d7cdb8146bcecc72b7
+R
+"src/day12/stream/quiz1/Trader.java,b/8/b87154a3e19a207982316546991c34802c494717
+W
+'src/day12/stream/quiz1/Transaction.java,a/3/a39569bca6f2252fafc4a150099a43a6678e84e3
+P
+ src/day12/stream/quiz2/Main.java,f/c/fc44295244a017c55cd75b51a2d4028a0eeed794
+T
+$src/day12/stream/quiz2/Traveler.java,1/d/1d0b4bca4ad3ec9eb8d67fcf30e25ed77412a559
+W
+'src/day12/stream/quiz2/Destination.java,f/f/ff88fb19c1380d4b8f62e91ab48367f542601c7f
+S
+#src/day12/stream/quiz2/Booking.java,d/7/d723a6dac90997866d501a89d47f4c0807c6eb71
